@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Program
-permalink: /program/
+permalink: "/program/"
+layout: page
 ---
+
 ## **TBA**

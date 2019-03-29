@@ -1,23 +1,16 @@
-# Site settings
+---
 title: Castor Software Days 2019
-#email: payberah@kth.se
-description: > # this means to ignore newlines until "baseurl:"
-  Castor Software Research Centre
-#baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "http://mrlucasch.github.io" # the base hostname & protocol for your site
-#twitter_username: lucasch
-#github_username:  mrlucasch
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: 'Castor Software Research Centre
 
-# Build settings
+'
 markdown: kramdown
-
-# Other options
-#permalink: blog/:year/:month/:title
-#job.title: "Graduate Student"
 excerpt_separator: "<!--more-->"
-
-# SEO stuff
-# google_author: ""
-# google_site_verification: ""
-# bing_webmastertools_id: ""
 google_analytics: UA-97213046-2

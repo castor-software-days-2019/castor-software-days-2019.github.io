@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Social Network
-permalink: /social/
+permalink: "/social/"
+layout: page
 ---
 
 Please join the Facebook group to receive announcements and material of the Summer School.

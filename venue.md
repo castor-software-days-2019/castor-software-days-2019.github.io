@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Venue
-permalink: /venue/
+permalink: "/venue/"
+layout: page
 ---
+
 ## **TBA**

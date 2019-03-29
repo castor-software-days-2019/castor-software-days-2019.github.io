@@ -1,9 +1,11 @@
 ---
+title: February 27th to March 3rd 2017
+date: 2017-02-27 08:13:27 Z
+permalink: "/notebook/weekly/022717"
+categories:
+- notebook
+- weekly
 layout: post
-title:  "February 27th to March 3rd 2017"
-date:   2017-02-27 8:13:27
-permalink: /notebook/weekly/022717
-categories: notebook weekly
 ---
 
 # Accomplished Tasks

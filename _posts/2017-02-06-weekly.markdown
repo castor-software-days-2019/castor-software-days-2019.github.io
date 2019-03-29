@@ -1,9 +1,11 @@
 ---
+title: February 06, 2017 to February 10, 2017
+date: 2017-02-06 15:36:27 Z
+permalink: "/notebook/weekly/020617"
+categories:
+- notebook
+- weekly
 layout: post
-title:  "February 06, 2017 to February 10, 2017"
-date:   2017-02-06 15:36:27
-permalink: /notebook/weekly/020617
-categories: notebook weekly
 ---
 
 # Accomplished Tasks

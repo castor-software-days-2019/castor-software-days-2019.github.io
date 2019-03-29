@@ -1,8 +1,9 @@
 ---
+title: Blog in progress
+date: 2016-12-28 15:36:27 Z
+categories:
+- blog
 layout: post
-title:  "Blog in progress"
-date:   2016-12-28 15:36:27
-categories: blog
 ---
 
 # Work in progress.

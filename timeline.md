@@ -1,9 +1,8 @@
 ---
-layout: page
 title: Timeline
-permalink: /timeline/
+permalink: "/timeline/"
+layout: page
 ---
-
 
 # 2017
 - **October 2017**: Presented my work on migrations at SEC '17

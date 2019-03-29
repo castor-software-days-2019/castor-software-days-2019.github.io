@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Organisers
-permalink: /organization/
+permalink: "/organization/"
+layout: page
 ---
+
 ## **Overall Coordinators and DevOps Track Chairs**
 <div style="margin-left: 20px;">
 <table summary="" cellpadding="10" cellspacing="10">

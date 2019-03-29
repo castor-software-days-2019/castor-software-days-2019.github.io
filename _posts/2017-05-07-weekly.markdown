@@ -1,9 +1,10 @@
 ---
+title: March 27th to May 8th, 2018
+date: 2017-05-07 15:36:27 Z
+permalink: "/notebook/weekly/050517"
+categories:
+- notebook
 layout: post
-title:  "March 27th to May 8th, 2018"
-date:   2017-05-07 15:36:27
-permalink: /notebook/weekly/050517
-categories: notebook 
 ---
 
 # Accomplished Tasks

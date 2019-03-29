@@ -1,8 +1,9 @@
 ---
+title: The Path to 2017
+date: 2017-01-02 12:21:30 Z
+categories:
+- blog
 layout: post
-title:  "The Path to 2017"
-date:   2017-1-2 12:21:30
-categories: blog 
 ---
 
 # Overview

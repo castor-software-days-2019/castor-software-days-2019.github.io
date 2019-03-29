@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Venue
-permalink: /venue/
+permalink: "/venue/"
+layout: page
 ---
+
 <center><img src="/images/boson.jpg" width="1000" height="300" align="center"></center>
 <br>
 

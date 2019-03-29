@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Speakers
-permalink: /speakers/
+permalink: "/speakers/"
+layout: page
 ---
+
 ## **TBA**
