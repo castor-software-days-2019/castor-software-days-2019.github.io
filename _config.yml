@@ -81,6 +81,15 @@ organization:
     - title: envelope
       url: mailto:aleyton@kth.se
 
+- name: Oscar Luis Vera-Pérez
+  pic: oscar
+  position: PhD student at Inria
+  social:
+    - title: globe
+      url: https://www.linkedin.com/in/oscar-luis-vera-p%C3%A9rez-608392125
+    - title: envelope
+      url: mailto:oscar.vera-perez@inria.fr
+
 # Team names, titles and social links
 speakers:
 - name: Kay Garland
