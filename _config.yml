@@ -1,0 +1,16 @@
+---
+title: Castor Software Days 2019
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: 'Castor Software Research Centre
+
+'
+markdown: kramdown
+excerpt_separator: "<!--more-->"
+google_analytics: UA-97213046-2
