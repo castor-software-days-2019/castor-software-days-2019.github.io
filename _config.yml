@@ -15,7 +15,7 @@ description: ''
 organization:
 - name: Benoit Baudry
   pic: benoit
-  position: Professor in Software Technology at KTH
+  position: General co-chair and DevOps track co-chair
   social:
   - title: globe
     url: https://softwarediversity.eu
@@ -23,7 +23,7 @@ organization:
     url: mailto:baudry@kth.se
 - name: Frédéric Loiret
   pic: frederic
-  position: Senior researcher and cooperative R&D project manager at KTH
+  position: General co-chair and DevOps track co-chair
   social:
   - title: globe
     url: http://www.scanx.org/loiret/
@@ -31,7 +31,7 @@ organization:
     url: mailto:floiret@kth.se
 - name: Amir H. Payberah
   pic: amir
-  position: Assistant Professor in the Software and Computer Systems division at KTH
+  position: Distributed systems track co-chair
   social:
   - title: globe
     url: https://payberah.github.io/
@@ -39,7 +39,7 @@ organization:
     url: mailto:payberah@kth.se
 - name: Musard Balliu
   pic: musard
-  position: Assistant Professor in the Theoretical Computer Science division at KTH
+  position: Security and privacy track co-chair
   social:
   - title: globe
     url: https://www.csc.kth.se/~musard/
@@ -47,7 +47,7 @@ organization:
     url: mailto:musard@kth.se
 - name: Cyrille Artho
   pic: cyrille
-  position: Associate Professor in the Theoretical Computer Science division at KTH
+  position: Security and privacy track co-chair
   social:
   - title: globe
     url: https://people.kth.se/~artho/
@@ -55,8 +55,7 @@ organization:
     url: mailto:artho@kth.se
 - name: Philipp Haller
   pic: philipp
-  position: Associate professor of computer science in the Theoretical Computer Science
-    division at KTH
+  position: Distributed systems track co-chair
   social:
   - title: globe
     url: http://www.csc.kth.se/~phaller/
@@ -64,8 +63,7 @@ organization:
     url: mailto:phaller@kth.se
 - name: Maria Berthelius
   pic: maria
-  position: Service coordinator at the school of Electrical Engineering and Computer
-    Science at KTH
+  position: Local organizer
   social:
   - title: globe
     url: https://www.kth.se/profile/berthel
@@ -73,8 +71,7 @@ organization:
     url: mailto:berthel@kth.se
 - name: Alexandra Leyton
   pic: alexandra
-  position: Communication officer at the school of Electrical Engineering and Computer
-    Science at KTH
+  position: Student liaison
   social:
   - title: globe
     url: https://www.kth.se/profile/aleyton
@@ -82,43 +79,49 @@ organization:
     url: mailto:aleyton@kth.se
 - name: Oscar Luis Vera-Pérez
   pic: oscar
-  position: PhD student at Inria
+  position: Web consultant
   social:
   - title: globe
     url: https://www.linkedin.com/in/oscar-luis-vera-p%C3%A9rez-608392125
   - title: envelope
     url: mailto:oscar.vera-perez@inria.fr
 speakers:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Daniel Stenberg
+  pic: daniel
+  position: The author and maintainer of cURL and libcurl
   social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url: 
-  - title: stack-overflow
-    url: 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+  - title: globe
+    url: https://daniel.haxx.se/
+- name: Martin Monperrus
+  pic: martin
+  position: Professor of theoretical computer science at KTH
   social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url: 
-  - title: linkedin
-    url: 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+  - title: globe
+    url: https://www.kth.se/profile/monp
+- name: Jim Dowling
+  pic: jim
+  position: Associate professor of computer systems at KTH
   social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url: 
-  - title: google-plus
-    url: 
+  - title: globe
+    url: https://www.kth.se/profile/jdowling
+- name: Leila Bahri
+  pic: leila
+  position: Postdoc researcher of computer systems at KTH
+  social:
+  - title: globe
+    url: https://www.kth.se/profile/lbahri
+- name: Amir H. Payberah
+  pic: amir
+  position: Assistant professor of computer systems at KTH
+  social:
+  - title: globe
+    url: https://payberah.github.io/
+- name: Philipp Haller
+  pic: philipp
+  position: Associate professor of theoretical computer science at KTH
+  social:
+  - title: globe
+    url: http://www.csc.kth.se/~phaller/
 social:
 - title: twitter
   url: https://twitter.com/CastorKth
