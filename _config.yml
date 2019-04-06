@@ -127,89 +127,13 @@ speakers:
   position: TBA
   social:
   - title: globe
-    url: 
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-<<<<<<< HEAD
     url: #
-=======
-    url: 
 - name: TBA
   pic: tba
   position: TBA
   social:
   - title: globe
-    url: 
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-    url: 
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-    url: 
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-    url: 
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-    url: 
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-    url: 
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-    url: 
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-    url: 
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-    url: 
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-    url: 
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-    url: 
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-    url: 
->>>>>>> 457abab8ff58a6d50edcf233f664dc7e5a6d4b07
+    url: #
 social:
 - title: envelope
   url: mailto:sw-days-organizers@kth.se
