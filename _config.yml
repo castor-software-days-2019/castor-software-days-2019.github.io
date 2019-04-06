@@ -134,6 +134,30 @@ speakers:
   social:
   - title: globe
     url: #
+- name: TBA
+  pic: tba
+  position: TBA
+  social:
+  - title: globe
+    url: #
+- name: TBA
+  pic: tba
+  position: TBA
+  social:
+  - title: globe
+    url: #
+- name: TBA
+  pic: tba
+  position: TBA
+  social:
+  - title: globe
+    url: #
+- name: TBA
+  pic: tba
+  position: TBA
+  social:
+  - title: globe
+    url: #
 social:
 - title: envelope
   url: mailto:sw-days-organizers@kth.se
