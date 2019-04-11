@@ -138,7 +138,7 @@ speakers_security:
 speakers_ds:
 - name: Peter Pietzuch
   pic: peter
-  position: Professor in the Department of Computing at Imperial College London
+  position: Professor of computer systems at Imperial College London
   social:
   - title: globe
     url: https://www.doc.ic.ac.uk/~prp/
