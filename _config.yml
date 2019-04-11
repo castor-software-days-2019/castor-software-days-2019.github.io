@@ -109,7 +109,7 @@ speakers_devops:
   position: TBA
   social:
   - title: globe
-    url: #
+    url: 
 speakers_security:
 - name: David Basin
   pic: david
@@ -134,7 +134,7 @@ speakers_security:
   position: TBA
   social:
   - title: globe
-    url: #
+    url: 
 speakers_ds:
 - name: Peter Pietzuch
   pic: peter
