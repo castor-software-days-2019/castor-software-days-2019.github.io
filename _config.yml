@@ -85,7 +85,7 @@ organization:
     url: https://www.linkedin.com/in/oscar-luis-vera-p%C3%A9rez-608392125
   - title: envelope
     url: mailto:oscar.vera-perez@inria.fr
-speakers:
+speakers_devops:
 - name: Daniel Stenberg
   pic: daniel
   position: The author and maintainer of cURL and libcurl
@@ -98,6 +98,50 @@ speakers:
   social:
   - title: globe
     url: https://www.kth.se/profile/monp
+- name: Philipp Haller
+  pic: philipp
+  position: Associate professor of theoretical computer science at KTH
+  social:
+  - title: globe
+    url: http://www.csc.kth.se/~phaller/
+- name: TBA
+  pic: tba
+  position: TBA
+  social:
+  - title: globe
+    url: #
+speakers_security:
+- name: David Basin
+  pic: david
+  position: Professor of computer science at ETH Zurich
+  social:
+  - title: globe
+    url: http://people.inf.ethz.ch/basin/
+- name: Andrei Sabelfeld
+  pic: andrei
+  position: Professor of computer science at Chalmers
+  social:
+  - title: globe
+    url: http://www.cse.chalmers.se/~andrei/
+- name: Pontus Johnson
+  pic: pontus
+  position: Professor of cyber security at KTH
+  social:
+  - title: globe
+    url: https://www.kth.se/profile/pontusj
+- name: TBA
+  pic: tba
+  position: TBA
+  social:
+  - title: globe
+    url: #
+speakers_ds:
+- name: Peter Pietzuch
+  pic: peter
+  position: Professor in the Department of Computing at Imperial College London
+  social:
+  - title: globe
+    url: https://www.doc.ic.ac.uk/~prp/
 - name: Jim Dowling
   pic: jim
   position: Associate professor of computer systems at KTH
@@ -116,24 +160,6 @@ speakers:
   social:
   - title: globe
     url: https://payberah.github.io/
-- name: Philipp Haller
-  pic: philipp
-  position: Associate professor of theoretical computer science at KTH
-  social:
-  - title: globe
-    url: http://www.csc.kth.se/~phaller/
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-    url: https://castor-software-days-2019.github.io/
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-    url: https://castor-software-days-2019.github.io/
 social:
 - title: envelope
   url: mailto:sw-days-organizers@kth.se
