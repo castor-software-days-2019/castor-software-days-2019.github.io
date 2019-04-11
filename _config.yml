@@ -94,13 +94,13 @@ speakers_devops:
     url: https://daniel.haxx.se/
 - name: Martin Monperrus
   pic: martin
-  position: Professor of theoretical computer science at KTH
+  position: Professor of software technology at KTH
   social:
   - title: globe
     url: https://www.kth.se/profile/monp
 - name: Philipp Haller
   pic: philipp
-  position: Associate professor of theoretical computer science at KTH
+  position: Associate professor of computer science at KTH
   social:
   - title: globe
     url: http://www.csc.kth.se/~phaller/
@@ -113,13 +113,13 @@ speakers_devops:
 speakers_security:
 - name: David Basin
   pic: david
-  position: Professor of computer science at ETH Zurich
+  position: Professor of information security at ETH Zurich
   social:
   - title: globe
     url: http://people.inf.ethz.ch/basin/
 - name: Andrei Sabelfeld
   pic: andrei
-  position: Professor of computer science at Chalmers
+  position: Professor of computer security at Chalmers
   social:
   - title: globe
     url: http://www.cse.chalmers.se/~andrei/
