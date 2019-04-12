@@ -142,6 +142,12 @@ speakers_ds:
   social:
   - title: globe
     url: https://www.doc.ic.ac.uk/~prp/
+- name: Sahar Asadi
+  pic: sahar
+  position: Research Lead (AI R&D) at King
+  social:
+  - title: globe
+    url: https://www.linkedin.com/in/saharasadi/
 - name: Jim Dowling
   pic: jim
   position: Associate professor of computer systems at KTH
@@ -160,6 +166,24 @@ speakers_ds:
   social:
   - title: globe
     url: https://payberah.github.io/
+- name: TBA
+  pic: tba
+  position: TBA
+  social:
+  - title: globe
+    url: 
+- name: TBA
+  pic: tba
+  position: TBA
+  social:
+  - title: globe
+    url: 
+- name: TBA
+  pic: tba
+  position: TBA
+  social:
+  - title: globe
+    url: 
 social:
 - title: envelope
   url: mailto:sw-days-organizers@kth.se
