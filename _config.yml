@@ -160,18 +160,18 @@ speakers_ds:
   social:
   - title: globe
     url: https://www.kth.se/profile/lbahri
-- name: Amir H. Payberah
-  pic: amir
-  position: Assistant professor of computer systems at KTH
+- name: Azimeh Sefidcon
+  pic: azimeh
+  position: Director, Cloud Systems and Platforms Research at Ericsson
   social:
   - title: globe
-    url: https://payberah.github.io/
-- name: TBA
-  pic: tba
-  position: TBA
+    url: https://www.linkedin.com/in/azimehsefidcon/
+- name: Wolfgang John
+  pic: wolfgang
+  position: Cloud Research Leader at Ericsson
   social:
   - title: globe
-    url: 
+    url: https://www.ericsson.com/en/blog/contributors/u-z/wolfgang-john
 - name: TBA
   pic: tba
   position: TBA
