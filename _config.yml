@@ -159,18 +159,18 @@ speakers:
   social:
   - title: globe
     url: https://www.linkedin.com/in/saharasadi/
+- name: Tobias Furuholm
+  pic: tobias
+  position: Software Developer and System Architect - Freelance Consultant
+  social:
+  - title: globe
+    url: https://www.linkedin.com/in/tobias-furuholm-72b57a69/
 - name: Wolfgang John
   pic: wolfgang
   position: Cloud Research Leader at Ericsson
   social:
   - title: globe
     url: https://www.ericsson.com/en/blog/contributors/u-z/wolfgang-john
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-    url: 
 - name: TBA
   pic: tba
   position: TBA
