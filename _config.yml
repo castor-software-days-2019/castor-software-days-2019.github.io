@@ -85,69 +85,44 @@ organization:
     url: https://www.linkedin.com/in/oscar-luis-vera-p%C3%A9rez-608392125
   - title: envelope
     url: mailto:oscar.vera-perez@inria.fr
-speakers_devops:
+keynotes:
 - name: Daniel Stenberg
   pic: daniel
   position: The author and maintainer of cURL and libcurl
   social:
   - title: globe
     url: https://daniel.haxx.se/
-- name: Martin Monperrus
-  pic: martin
-  position: Professor of software technology at KTH
-  social:
-  - title: globe
-    url: https://www.kth.se/profile/monp
-- name: Philipp Haller
-  pic: philipp
-  position: Associate professor of computer science at KTH
-  social:
-  - title: globe
-    url: http://www.csc.kth.se/~phaller/
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-    url: 
-speakers_security:
 - name: David Basin
   pic: david
   position: Professor of information security at ETH Zurich
   social:
   - title: globe
     url: http://people.inf.ethz.ch/basin/
-- name: Andrei Sabelfeld
-  pic: andrei
-  position: Professor of computer security at Chalmers
+- name: Josh Kalderimis
+  pic: josh
+  position: VP of Product at Travis CI
   social:
   - title: globe
-    url: http://www.cse.chalmers.se/~andrei/
-- name: Pontus Johnson
-  pic: pontus
-  position: Professor of cyber security at KTH
-  social:
-  - title: globe
-    url: https://www.kth.se/profile/pontusj
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-    url: 
-speakers_ds:
+    url: https://www.linkedin.com/in/joshkalderimis/
 - name: Peter Pietzuch
   pic: peter
   position: Professor of computer systems at Imperial College London
   social:
   - title: globe
     url: https://www.doc.ic.ac.uk/~prp/
-- name: Sahar Asadi
-  pic: sahar
-  position: Research Lead (AI R&D) at King
+speakers:
+- name: Andrei Sabelfeld
+  pic: andrei
+  position: Professor of computer security at Chalmers
   social:
   - title: globe
-    url: https://www.linkedin.com/in/saharasadi/
+    url: http://www.cse.chalmers.se/~andrei/
+- name: Azimeh Sefidcon
+  pic: azimeh
+  position: Director, Cloud Systems and Platforms Research at Ericsson
+  social:
+  - title: globe
+    url: https://www.linkedin.com/in/azimehsefidcon/
 - name: Jim Dowling
   pic: jim
   position: Associate professor of computer systems at KTH
@@ -160,18 +135,42 @@ speakers_ds:
   social:
   - title: globe
     url: https://www.kth.se/profile/lbahri
-- name: Azimeh Sefidcon
-  pic: azimeh
-  position: Director, Cloud Systems and Platforms Research at Ericsson
+- name: Martin Monperrus
+  pic: martin
+  position: Professor of software technology at KTH
   social:
   - title: globe
-    url: https://www.linkedin.com/in/azimehsefidcon/
+    url: https://www.kth.se/profile/monp
+- name: Philipp Haller
+  pic: philipp
+  position: Associate professor of computer science at KTH
+  social:
+  - title: globe
+    url: http://www.csc.kth.se/~phaller/
+- name: Pontus Johnson
+  pic: pontus
+  position: Professor of cyber security at KTH
+  social:
+  - title: globe
+    url: https://www.kth.se/profile/pontusj
+- name: Sahar Asadi
+  pic: sahar
+  position: Research Lead (AI Research and Development) at King
+  social:
+  - title: globe
+    url: https://www.linkedin.com/in/saharasadi/
 - name: Wolfgang John
   pic: wolfgang
   position: Cloud Research Leader at Ericsson
   social:
   - title: globe
     url: https://www.ericsson.com/en/blog/contributors/u-z/wolfgang-john
+- name: TBA
+  pic: tba
+  position: TBA
+  social:
+  - title: globe
+    url: 
 - name: TBA
   pic: tba
   position: TBA
