@@ -8,7 +8,7 @@ description: We invite you to the first hackathon about art and continuous integ
   first ever performance of software art based on continuous integration data.
 link: Hackathon
 id: hackathon
-new: true
+new: false
 place: KTH Nuclear Reactor R1
 date-str: Oct 14 2019
 ---
