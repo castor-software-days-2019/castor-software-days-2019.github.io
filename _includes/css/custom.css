@@ -1,7 +1,11 @@
 .page-wrapper{
-    padding: 20px;
+    padding: 50px;
 
-    margin-top: 200px;
+}
+.page-wrapper p {
+
+    margin-top: 30px;
+
 }
 
 .title-container{
@@ -22,4 +26,27 @@
 .title-container > h5{
     margin: 0;
     margin-bottom: 5px;
+}
+
+.link-badge{
+    position: relative;
+    top: 10px;
+    left: 0;
+
+}
+
+.link-badge2{
+    position: relative;
+    top: 50px;
+    left: -20px;
+
+    text-transform: uppercase;
+    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+
+.post-url{
+    
 }

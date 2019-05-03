@@ -1,6 +1,11 @@
 
+
 {% for post in site.posts %}
-    <li>
-        <a id='{{post.id}}' href="{{post.url}}">{{post.link}}</a>
+    <li class='post-url {% if page.url == post.url %}active{% endif %}'>
+        <a id='{{post.id}}' href="{{post.url}}">{{post.link}} 
+            {% if post.new %}
+                <span class="link-badge badge badge-pill badge-primary">New</span>
+            {% endif %}
+        </a>
     </li>
 {% endfor %}

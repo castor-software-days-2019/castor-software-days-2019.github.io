@@ -4,6 +4,19 @@ layout: default
 
 {% include header.html %}
 
+{% if page.url == node.url %}
+    <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+{% else %}
+    <li><a href="{{node.url}}">{{node.title}}</a></li>
+{% endif %}
+
+<div style='padding-top: 200px' class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <h1 class="display-4">{{page.title}}</h1>
+        <p class="lead">{{page.date-str}}. <strong>{{page.place}}</strong></p>
+    </div>
+</div>
+
 <div class="page-wrapper">
     {{ content }}
 </div>
