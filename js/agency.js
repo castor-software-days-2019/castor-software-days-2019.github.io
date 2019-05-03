@@ -22,6 +22,20 @@ $('body').scrollspy({
     target: '.navbar-fixed-top'
 })
 
+$('.title-container').click(function(){
+    $('html, body').stop().animate({
+        scrollTop: 0
+    }, 1500, 'easeInOutExpo', () => {
+        window.location = '#';
+    });
+})
+
+$(".navbar-fixed-top").on('activate.bs.scrollspy', function (e) {
+    const to = $($(e.target).find("a")[0]).attr("to");
+
+    window.location = to;
+})
+
 // Closes the Responsive Menu on Menu Item Click
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();

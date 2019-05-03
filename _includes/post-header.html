@@ -1,0 +1,6 @@
+
+{% for post in site.posts %}
+    <li>
+        <a id='{{post.id}}' href="{{post.url}}">{{post.link}}</a>
+    </li>
+{% endfor %}
