@@ -8,8 +8,10 @@ collections:
   uploads:
     title: Uploads
     output: true
-url: https://castor-software-days-2019.github.io/
-baseurl: "/"
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
+#url: https://castor-software-days-2019.github.io/
+#baseurl: "/"
 email: sw-days-organizers@kth.se
 description: ''
 organization:
@@ -161,7 +163,7 @@ speakers:
     url: https://www.linkedin.com/in/saharasadi/
 - name: Tobias Furuholm
   pic: tobias
-  position: Software Developer and System Architect - Freelance Consultant
+  position: Tech Lead at SoftSense, Combient
   social:
   - title: globe
     url: https://www.linkedin.com/in/tobias-furuholm-72b57a69/
