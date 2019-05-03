@@ -26,14 +26,22 @@ $('.title-container').click(function(){
     $('html, body').stop().animate({
         scrollTop: 0
     }, 1500, 'easeInOutExpo', () => {
-        window.location = '#';
+        
     });
 })
 
 $(".navbar-fixed-top").on('activate.bs.scrollspy', function (e) {
-    const to = $($(e.target).find("a")[0]).attr("to");
-
-    window.location = to;
+   
+    var $hash, $node;
+    $hash = $("a[href^='#']", e.target).attr("to").replace(/^#/, '');
+    $node = $('#' + $hash);
+    if ($node.length) {
+        $node.attr('id', '');
+    }
+    document.location.hash = $hash;
+    if ($node.length) {
+        return $node.attr('id', $hash);
+    }
 })
 
 // Closes the Responsive Menu on Menu Item Click
