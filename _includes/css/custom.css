@@ -1,0 +1,53 @@
+.page-wrapper{
+    padding: 50px;
+
+}
+.page-wrapper p {
+
+    margin-top: 30px;
+
+}
+
+.title-container{
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+
+    align-items: flex-start;
+
+    cursor: pointer;
+}
+
+.title-container > h2{
+    margin: 0;
+    margin-bottom: 5px;
+}
+.title-container > h5{
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+.link-badge{
+    position: relative;
+    top: 10px;
+    left: 0;
+
+    zoom: 0.7
+}
+
+.link-badge2{
+    position: relative;
+    top: 50px;
+    left: -20px;
+
+    text-transform: uppercase;
+    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+
+.post-url{
+    
+}

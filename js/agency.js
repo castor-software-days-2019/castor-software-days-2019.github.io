@@ -9,8 +9,10 @@ $(function() {
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
         $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top
-        }, 1500, 'easeInOutExpo');
+            scrollTop: $($anchor.attr('to')).offset().top
+        }, 1500, 'easeInOutExpo', () => {
+            window.location = $anchor.attr('to')
+        });
         event.preventDefault();
     });
 });
@@ -18,6 +20,20 @@ $(function() {
 // Highlight the top nav as scrolling occurs
 $('body').scrollspy({
     target: '.navbar-fixed-top'
+})
+
+$('.title-container').click(function(){
+    $('html, body').stop().animate({
+        scrollTop: 0
+    }, 1500, 'easeInOutExpo', () => {
+        window.location = '#';
+    });
+})
+
+$(".navbar-fixed-top").on('activate.bs.scrollspy', function (e) {
+    const to = $($(e.target).find("a")[0]).attr("to");
+
+    window.location = to;
 })
 
 // Closes the Responsive Menu on Menu Item Click
