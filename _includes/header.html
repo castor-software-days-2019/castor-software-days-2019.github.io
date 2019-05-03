@@ -17,25 +17,26 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hidden">
-                        <a href="/#page-top"></a>
+                        <a href="{{include.home}}#page-top"></a>
+                    </li>
+
+                    <li>
+                        <a class="page-scroll" to="#about" href="{{include.home}}#about">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" to="#about" href="/#about">About</a>
+                        <a class="page-scroll" to="#speakers" href="{{include.home}}#speakers">Speakers</a>
                     </li>
                     <li>
-                        <a class="page-scroll" to="#speakers" href="/#speakers">Speakers</a>
+                        <a class="page-scroll" to="#program" href="{{include.home}}#program">Program</a>
                     </li>
                     <li>
-                        <a class="page-scroll" to="#program" href="/#program">Program</a>
+                        <a class="page-scroll" to="#organization" href="{{include.home}}#organization">Organization</a>
                     </li>
                     <li>
-                        <a class="page-scroll" to="#organization" href="/#organization">Organization</a>
+                        <a class="page-scroll" to="#venue" href="{{include.home}}#venue">Venue</a>
                     </li>
                     <li>
-                        <a class="page-scroll" to="#venue" href="/#venue">Venue</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" to="#supporters" href="/#supporters">Supporters</a>
+                        <a class="page-scroll" to="#supporters" href="{{include.home}}#supporters">Supporters</a>
                     
 
                     {% include post-header.html %}

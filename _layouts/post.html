@@ -2,13 +2,7 @@
 layout: default
 ---
 
-{% include header.html %}
-
-{% if page.url == node.url %}
-    <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
-{% else %}
-    <li><a href="{{node.url}}">{{node.title}}</a></li>
-{% endif %}
+{% include header.html home='/' %}
 
 <div style='padding-top: 200px' class="jumbotron jumbotron-fluid">
     <div class="container">
