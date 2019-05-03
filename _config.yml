@@ -5,12 +5,13 @@ collections:
   calendar:
     title: Calendar
     output: false
+  pages:
+    title: Pages
+    output: true
+    permalink: path
   posts:
     title: Posts
     output: true
-  pages:
-    output: true
-    permalink: :path
   uploads:
     title: Uploads
     output: true
