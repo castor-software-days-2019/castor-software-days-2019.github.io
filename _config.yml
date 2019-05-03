@@ -9,9 +9,7 @@ collections:
     title: Uploads
     output: true
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
-#url: https://castor-software-days-2019.github.io/
-#baseurl: "/"
+baseurl: "/agency-jekyll-theme/"
 email: sw-days-organizers@kth.se
 description: ''
 organization:
