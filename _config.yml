@@ -10,7 +10,7 @@ collections:
     output: true
   pages:
     output: true
-    permalink: :path
+    permalink: /:path
   uploads:
     title: Uploads
     output: true
