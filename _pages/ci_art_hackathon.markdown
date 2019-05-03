@@ -1,13 +1,13 @@
 ---
 title: KTH Continuous Integration Art Hackathon
 date: 2019-05-03 00:00:00 Z
-type: post
-layout: post
+type: page
+layout: page
 description: We invite you to the first hackathon about art and continuous integration.
   KTH Students, professional engineers, and curious persons are welcome to join this
   first ever performance of software art based on continuous integration data.
 link: Hackathon
-id: hackathon
+ref: hackathon
 new: false
 place: KTH Nuclear Reactor R1
 date-str: Oct 14 2019

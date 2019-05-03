@@ -7,6 +7,38 @@ layout: default
 {% include about.html %}
 {% include speakers.html %}
 {% include program.html %}
+
+{% for post in site.pages %}
+    <section id='{{post.ref}}'>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">{{post.title}}</h2>
+                </div>
+            </div>
+            <br><br>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h4 class="section-heading">{{post.date-str}} <strong>{{post.place}}</strong></h4>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                  <p class="text-muted"><font size="+1">
+                      {{post.description}}</font></p>
+                </div>
+            <div class="row">
+                
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <a class='btn btn-primary' href={{post.url}}>Learn More</a>
+                  </div>
+            </div>
+        </div>
+    </section>
+{% endfor %}
+
 {% include organization.html %}
 {% include venue.html %}
 {% include supporters.html %}
