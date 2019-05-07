@@ -1,4 +1,4 @@
-- track: DevOps
+- track: Hackaton
   date: 2019-10-14
   events: 
   - from: '18:00'
@@ -18,7 +18,7 @@
     to: '18:00'
     title: Reception
     type: break
-- track: Security & safety,
+- track: Security & safety
   date: 2019-10-15
   events: 
   - from: '11:30'
@@ -33,8 +33,7 @@
     to: '14:15'
     title: Keynote
     type: keynote
-- track: Distributed
-systems
+- track: Distributed systems
   date: 2019-10-16
   events: 
   - from: '15:00'

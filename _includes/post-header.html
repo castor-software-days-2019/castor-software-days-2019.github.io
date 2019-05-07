@@ -2,7 +2,7 @@
 
 {% for post in site.pages %}
     <li class='post-url {% if page.url == post.url %}active{% endif %}'>
-        <a id='{{post.id}}' href="{{include.home}}#{{post.ref}}">{{post.link}} 
+        <a class="page-scroll" to="#{{post.ref}}" id='{{post.id}}' href="{{include.home}}#{{post.ref}}">{{post.link}} 
             {% if post.new %}
                 <span class="link-badge badge badge-pill badge-primary">New</span>
             {% endif %}

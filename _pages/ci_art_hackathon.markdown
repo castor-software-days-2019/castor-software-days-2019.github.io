@@ -13,21 +13,25 @@ place: KTH Nuclear Reactor R1
 date-str: Oct 14 2019
 ---
 
-## The Concept: embody the extraordinary activity that occurs in a continuous integration server through visual and sound representations.
+## The Concept
 
-The goal is to build beautiful visualizations or sonifications of software execution (the execution of continuous build, test, analysis, packaging). These representations can be purely visual, for example using D3.js or P5.js to build beautiful images (still or moving) of the massive activity that happens in a CI. 
+In this hackathon, we will dive into the extraordinary activity that occurs in a continuous integration server through visual and sound representations.
+
+The goal is to build beautiful visualizations or sonifications of continuous integration (of compilatios, test, analysis, packaging, deployment). These representations can be purely visual with beautiful images (still), videos (moving, à la Gource), . 
 
 Inspirations for such visual structures can be found at the Whitney Museum. Representations can also be based on sound, through the sonification of the CI activity. Participants can be inspired by the sonification of the continuous activity of wikipedia. The participants will also have the opportunity to use the R1 organ to play the CI activity (it has a programmable MIDI interface).
 
 ## Technology
 
-We use Travis CI as main source  of data. Travis CI provides different API end-points to  listen to their builds. Reference documentaion: [https://docs.travis-ci.com/user/developer/]()
+We use Travis CI as main source  of data. Travis CI provides different API end-points to  listen to their builds. Reference documentaion: <https://docs.travis-ci.com/user/developer/>
 
 In addition, CI artist Thomas Durieux provide a websocket server for easier use.
+Code: <https://travis-ci.com/tdurieux/travis-listener/>
 Websocket URL: <todo>
-Code: [https://travis-ci.com/tdurieux/travis-listener/]()
-Getting started documentation: <todo>
 
+For visualization, one can use D3.js or P5.js for example
+
+For sonification, one can use the library [tone.js](https://tonejs.github.io/)
 
 ## Frequently Asked Questions
 
