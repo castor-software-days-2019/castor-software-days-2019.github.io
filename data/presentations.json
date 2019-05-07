@@ -16,15 +16,8 @@
         "bio": "{{presentation.bio}}",
         "url": "{{presentation.url}}"
     },
-    {% case presentation.type %}
-    {% when 'keynote' %}
-    "color": "lightyellow",
-    "textColor": "black"
-    {% when 'academic' %}
-    "color": "orangered"
-    {% when 'industry' %}
-    "color": "darkorange"
-    {% endcase %}
+    
+    "textColor": "#656565"
 }{% unless forloop.last %},{% endunless %}
 {% endfor %}
 {% endfor %}
