@@ -59,3 +59,10 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
+
+$("section").each((index, t) => {
+    if(index%2)
+        $(t).removeClass("bg-light-gray")
+    else
+        $(t).addClass("bg-light-gray")
+})
