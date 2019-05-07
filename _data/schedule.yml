@@ -1,41 +1,51 @@
 - track: DevOps
   date: 2019-10-14
-  events:
-    - from: '09:00'
-      to: '10:00'
-      title: Keynote 1 DevOps
-      type: keynote
-    - from: '10:00'
-      to: '10:30'
-      title: Break
-      type: break
-    - from: '10:30'
-      to: '11:50'
-      title: CASTOR presentations
-      type: session
-    - from: '11:50'
-      to: '13:15'
-      title: Lunch break
-      type: break
-    - from: '13:15'
-      to: '14:15'
-      title: Keynote 2 DevOps
-      type: keynote
-    - from: '14:15'
-      to: '14:55'
-      title: CASTOR presentations
-      type: session
-    - from: '14:55'
-      to: '15:30'
-      title: Break
-      type: break
-    - from: '15:30'
-      to: '16:30'
-      title: Lighthning talks and demos
-      type: demos
-- track: Security and Safety
+  events: 
+  - from: '18:00'
+    to: '24:00'
+    title: Hackathon
+    type: session
+  - from: '09:00'
+    to: '10:00'
+    title: Keynote
+    type: keynote
+  - from: '13:15'
+    to: '14:15'
+    title: Keynote
+    type: keynote
+
+  - from: '17:00'
+    to: '18:00'
+    title: Reception
+    type: break
+- track: Security & safety,
   date: 2019-10-15
-  events: []
-- track: Distributed Systems
+  events: 
+  - from: '11:30'
+    to: '13:15'
+    title: Poster
+    type: session
+  - from: '09:00'
+    to: '10:00'
+    title: Keynote
+    type: keynote
+  - from: '13:15'
+    to: '14:15'
+    title: Keynote
+    type: keynote
+- track: Distributed
+systems
   date: 2019-10-16
-  events: []
+  events: 
+  - from: '15:00'
+    to: '17:00'
+    title: LLVM
+    type: session
+  - from: '09:00'
+    to: '10:00'
+    title: Keynote
+    type: keynote
+  - from: '13:15'
+    to: '14:15'
+    title: Keynote
+    type: keynote
