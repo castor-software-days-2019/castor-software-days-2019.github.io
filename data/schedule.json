@@ -27,7 +27,7 @@
     {
         "start" : "{{track.date}}",
         "allDay" : true,
-        "title" : "{{track.track}} Track",
+        "title" : "{{track.track}}",
         "classNames": ["program-track"]
     }{% unless forloop.last %},{% endunless %}
 

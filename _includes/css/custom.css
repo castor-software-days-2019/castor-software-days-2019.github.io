@@ -51,3 +51,16 @@
 .post-url{
     
 }
+
+.fc-time-grid-event{
+    background-color: red: !important
+}
+
+.program-presentation, .program-event{
+    font-size: 12pt !important;
+    min-height: 30px;
+}
+
+#full-calendar td{
+    
+}
