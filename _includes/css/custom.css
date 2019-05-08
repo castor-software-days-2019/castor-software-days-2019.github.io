@@ -188,3 +188,19 @@
     position: relative !important;
     top: -5px !important;
 }
+
+.page-content p{
+    font-size: 13pt;
+    
+    margin-bottom: 20px;
+}
+
+.page-content h1, .page-content h2, .page-content h3, .page-content h4, .page-content h5{
+    margin-bottom: 45px;
+
+    margin-top: 45px;
+}
+
+.page-content a{
+    color: #6a554d;
+}
