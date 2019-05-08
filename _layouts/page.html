@@ -4,13 +4,45 @@ layout: default
 
 {% include header.html home='/' %}
 
-<div style='padding-top: 200px' class="jumbotron jumbotron-fluid">
-    <div class="container">
-        <h1 class="display-4">{{page.title}}</h1>
-        <p class="lead">{{page.date-str}}. <strong>{{page.place}}</strong></p>
+
+<div id="carousel-example-generic" style="margin-top: -300px" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+    <ol class="carousel-indicators">
+    {% for img in page.img %}
+        <li data-target="#carousel-example-generic" data-slide-to="{{ forloop.index0 }}" class="{% if forloop.index == 1 %}active{%endif%}"></li>
+    {% endfor %}
+    </ol>
+    
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+        {% for img in page.img %}
+            <div class="item {% if forloop.index == 1 %}active{%endif%}">
+                <img  src="{{img}}" alt="...">
+                <div class="carousel-caption">
+                </div>
+            </div>
+        {% endfor %}
+    
     </div>
+    
+    <!-- Controls -->
+    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+        <span class="sr-only">Next</span>
+    </a>
+        
 </div>
 
-<div class="page-wrapper">
+<div class="container">
+
+
+    <div class="page-header" >
+        <h1>{{page.title}} <br/><small>{{page.date-str}}</small></h1>
+    </div>
+    
     {{ content }}
+            
+            
 </div>
