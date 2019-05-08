@@ -4,13 +4,30 @@ layout: default
 
 {% include header.html home='/' %}
 
-<div style='padding-top: 200px' class="jumbotron jumbotron-fluid">
+
+<div class="jumbotron" style="padding-top: 180px; background-image: url('{{page.img.first}}'); background-size: cover;background-repeat: no-repeat;background-position: 50% 50%;">
     <div class="container">
-        <h1 class="display-4">{{page.title}}</h1>
-        <p class="lead">{{page.date-str}}. <strong>{{page.place}}</strong></p>
+        <h2 style="max-width: 700px; font-size:32pt; color:white">{{page.title}} <br/><small>{{page.date-str}} <strong><a target="_blank" style="color:#fec503; text-decoration: none" href="{{page.place-link}}">{{page.place}}</a></strong></small></h2>
+    
     </div>
 </div>
 
-<div class="page-wrapper">
-    {{ content }}
+
+<div class="container">
+
+    <div class="page-content">
+        {{ content }}
+    </div>   
+            
 </div>
+
+<script>
+
+document.addEventListener("DOMContentLoaded", function () {
+        $("#title-link").click(() => {
+            window.location.replace("/")
+        })
+    }
+)
+
+</script>

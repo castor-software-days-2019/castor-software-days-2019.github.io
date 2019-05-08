@@ -7,6 +7,14 @@ description: We invite you to the first hackathon about art and continuous integ
   KTH Students, professional engineers, and curious persons are welcome to join this
   first ever performance of software art based on continuous integration data.
 link: Hackathon
+img: 
+    - /img/r1/2.JPG
+    - /img/r1/1.JPG
+    - /img/r1/3.JPG
+    - /img/r1/4.JPG
+    - /img/r1/5.JPG
+    - /img/r1/6.JPG
+    - /img/r1/7.JPG
 ref: hackathon
 new: false
 place: KTH Nuclear Reactor R1
@@ -20,6 +28,8 @@ In this hackathon, we will dive into the extraordinary activity that occurs in a
 The goal is to build beautiful visualizations or sonifications of continuous integration (of compilatios, test, analysis, packaging, deployment). These representations can be purely visual with beautiful images (still), videos (moving, à la Gource), . 
 
 Inspirations for such visual structures can be found at the Whitney Museum. Representations can also be based on sound, through the sonification of the CI activity. Participants can be inspired by the sonification of the continuous activity of wikipedia. The participants will also have the opportunity to use the R1 organ to play the CI activity (it has a programmable MIDI interface).
+
+
 
 ## Technology
 
@@ -51,3 +61,5 @@ For sonification, one can use the library [tone.js](https://tonejs.github.io/)
 - **Can I start before the hackathon’s day?**
 
     Of course, feel free to start before and come with cool demo on Oct 14 2019 in R1. 
+
+
