@@ -17,7 +17,7 @@ img:
 - "/img/r1/7.JPG"
 ref: hackathon
 new: false
-place: KTH Nuclear Reactor R1
+place: Former KTH Nuclear Reactor R1
 date-str: Oct 14 2019
 ---
 
