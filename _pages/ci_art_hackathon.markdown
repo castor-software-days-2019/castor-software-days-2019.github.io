@@ -18,7 +18,7 @@ img:
 ref: hackathon
 new: false
 place: Former KTH Nuclear Reactor R1
-place-link: https://www.r1.kth.se/
+place_link: https://www.r1.kth.se/
 date-str: Oct 14 2019
 ---
 
