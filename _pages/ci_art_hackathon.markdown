@@ -40,7 +40,7 @@ In addition, CI artist Thomas Durieux provide a websocket server for easier use.
 Code: <https://travis-ci.com/tdurieux/travis-listener/>
 Websocket URL: <todo>
 
-For visualization, one can use D3.js or P5.js for example
+For visualization, one can use [D3.js](https://d3js.org/), [P5.js](https://p5js.org/) or [Vega Lite](https://vega.github.io/vega-lite/) for example
 
 For sonification, one can use the library [tone.js](https://tonejs.github.io/)
 
