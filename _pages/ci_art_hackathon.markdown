@@ -44,6 +44,10 @@ For visualization, one can use [D3.js](https://d3js.org/), [P5.js](https://p5js.
 
 For sonification, one can use the library [tone.js](https://tonejs.github.io/)
 
+## The Venue
+
+The hackathon will take place in a very peculiar venue, the old structure of the very first nuclear reactor of Sweden, called R1. It was a research reactor located on the main campus of KTH at Valhallavägen, and was active from 1954 to 1970. It was completely dismantled, and there is nothing left of it today. It is in the reactor hall that our hackathon will take place.
+
 ## Frequently Asked Questions
 
 - **Do I have to know how to program to participate to the hackathon?**
