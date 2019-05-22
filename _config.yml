@@ -118,6 +118,18 @@ keynotes:
   social:
   - title: globe
     url: https://www.doc.ic.ac.uk/~prp/
+- name: Ziawasch Abedjan
+  pic: ziawasch
+  position: Assistant Professor and head of the Big Data Management Group at TU Berlin
+  social:
+  - title: globe
+    url: https://www.bigdama.tu-berlin.de/menue/team/prof_dr_ziawasch_abedjan/
+- name: TBA
+  pic: tba
+  position: TBA
+  social:
+  - title: globe
+    url: 
 speakers:
 - name: Andrei Sabelfeld
   pic: andrei
@@ -133,13 +145,13 @@ speakers:
     url: https://www.linkedin.com/in/azimehsefidcon/
 - name: Jim Dowling
   pic: jim
-  position: Associate professor of computer systems at KTH
+  position: Associate professor of computer science at KTH
   social:
   - title: globe
     url: https://www.kth.se/profile/jdowling
 - name: Leila Bahri
   pic: leila
-  position: Postdoc researcher of computer systems at KTH
+  position: Postdoc researcher of computer science at KTH
   social:
   - title: globe
     url: https://www.kth.se/profile/lbahri
@@ -149,6 +161,12 @@ speakers:
   social:
   - title: globe
     url: https://www.kth.se/profile/monp
+- name: Paris Carbone
+  pic: paris
+  position: Senior researcher at RISE
+  social:
+  - title: globe
+    url: https://www.ri.se/en/paris-carbone
 - name: Philipp Haller
   pic: philipp
   position: Associate professor of computer science at KTH
@@ -157,7 +175,7 @@ speakers:
     url: http://www.csc.kth.se/~phaller/
 - name: Pontus Johnson
   pic: pontus
-  position: Professor of cyber security at KTH
+  position: Professor of cyber security and software architecture at KTH
   social:
   - title: globe
     url: https://www.kth.se/profile/pontusj
@@ -179,12 +197,6 @@ speakers:
   social:
   - title: globe
     url: https://www.ericsson.com/en/blog/contributors/u-z/wolfgang-john
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-    url: 
 - name: TBA
   pic: tba
   position: TBA

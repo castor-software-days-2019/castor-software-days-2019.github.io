@@ -36,8 +36,8 @@
 - track: Distributed systems
   date: 2019-10-16
   events: 
-  - from: '15:00'
-    to: '17:00'
+  - from: '17:00'
+    to: '20:00'
     title: LLVM
     type: session
   - from: '09:00'
