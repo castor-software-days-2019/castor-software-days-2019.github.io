@@ -8,13 +8,13 @@ description: We invite you to the first hackathon about art and continuous integ
   first ever performance of software art based on continuous integration data.
 link: Hackathon
 img:
-- "img/r1/2.JPG"
-- "img/r1/1.JPG"
-- "img/r1/3.JPG"
-- "img/r1/4.JPG"
-- "img/r1/5.JPG"
-- "img/r1/6.JPG"
-- "img/r1/7.JPG"
+- img/r1/2.JPG
+- img/r1/1.JPG
+- img/r1/3.JPG
+- img/r1/4.JPG
+- img/r1/5.JPG
+- img/r1/6.JPG
+- img/r1/7.JPG
 ref: hackathon
 new: false
 place: Former KTH Nuclear Reactor R1
