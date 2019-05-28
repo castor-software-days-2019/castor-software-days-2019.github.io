@@ -106,6 +106,12 @@ keynotes:
   social:
   - title: globe
     url: http://people.inf.ethz.ch/basin/
+- name: Dimitra Giannakopoulou
+  pic: dimitra
+  position: Research computer scientist at NASA Ames Research Center
+  social:
+  - title: globe
+    url: https://ti.arc.nasa.gov/profile/dimitra/
 - name: Josh Kalderimis
   pic: josh
   position: VP of Product at Travis CI
@@ -114,7 +120,7 @@ keynotes:
     url: https://www.linkedin.com/in/joshkalderimis/
 - name: Peter Pietzuch
   pic: peter
-  position: Professor of computer systems at Imperial College London
+  position: Professor of computer science at Imperial College London
   social:
   - title: globe
     url: https://www.doc.ic.ac.uk/~prp/
@@ -124,12 +130,6 @@ keynotes:
   social:
   - title: globe
     url: https://www.bigdama.tu-berlin.de/menue/team/prof_dr_ziawasch_abedjan/
-- name: TBA
-  pic: tba
-  position: TBA
-  social:
-  - title: globe
-    url: 
 speakers:
 - name: Andrei Sabelfeld
   pic: andrei
