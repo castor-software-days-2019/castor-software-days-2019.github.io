@@ -3,9 +3,7 @@ title: KTH Continuous Integration Art Hackathon
 date: 2019-05-03 00:00:00 Z
 type: page
 layout: page
-description: We invite you to the first hackathon about art and continuous integration.
-  KTH Students, professional engineers, and curious persons are welcome to join this
-  first ever performance of software art based on continuous integration data.
+description: Hackathon about Continuous Integration Data
 link: Hackathon
 img:
 - img/r1/2.JPG
@@ -22,31 +20,23 @@ place_link: https://www.r1.kth.se/
 date-str: Oct 14 2019
 ---
 
+We invite you to the first hackathon about art and continuous integration. KTH Students, professional engineers, and curious persons are welcome to join this first ever performance of software art based on continuous integration data.
+
 ## The Concept
 
 In this hackathon, we will dive into the extraordinary activity that occurs in a continuous integration server through visual and sound representations.
 
 The goal is to build beautiful visualizations or sonifications of continuous integration (of compilatios, test, analysis, packaging, deployment). These representations can be purely visual with beautiful images (still), videos (moving, à la Gource), . 
 
-Inspirations for such visual structures can be found at the Whitney Museum. Representations can also be based on sound, through the sonification of the CI activity. Participants can be inspired by the sonification of the continuous activity of wikipedia. The participants will also have the opportunity to use the R1 organ to play the CI activity (it has a programmable MIDI interface).
-
-
-
-## Technology
-
-We use Travis CI as main source  of data. Travis CI provides different API end-points to  listen to their builds. Reference documentaion: <https://docs.travis-ci.com/user/developer/>
-
-In addition, CI artist Thomas Durieux provide a websocket server for easier use.
-Code: <https://travis-ci.com/tdurieux/travis-listener/>
-Websocket URL: <todo>
-
-For visualization, one can use [D3.js](https://d3js.org/), [P5.js](https://p5js.org/) or [Vega Lite](https://vega.github.io/vega-lite/) for example
-
-For sonification, one can use the library [tone.js](https://tonejs.github.io/)
+Inspirations for such visual structures can be found at the Whitney Museum. Representations can also be based on sound, through the sonification of the CI activity. Participants can be inspired by the sonification of the continuous activity of wikipedia. 
 
 ## The Venue
 
 The hackathon will take place in a very peculiar venue, the old structure of the very first nuclear reactor of Sweden, called R1. It was a research reactor located on the main campus of KTH at Valhallavägen, and was active from 1954 to 1970. It was completely dismantled, and there is nothing left of it today. It is in the reactor hall that our hackathon will take place.
+
+## Technology
+
+See <https://github.com/KTH/ci-hackathon/>
 
 ## Frequently Asked Questions
 
