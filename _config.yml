@@ -5,21 +5,21 @@ collections:
   calendar:
     title: Calendar
     output: false
-  pages:
-    title: Pages
-    output: true
-    permalink: "/:path"
-  speakers:
-    title: Speakers
-    output: true
-    permalink: "/:path"
   keynotes:
     title: Keynotes
+    output: true
+    permalink: "/:path"
+  pages:
+    title: Pages
     output: true
     permalink: "/:path"
   posts:
     title: Posts
     output: true
+  speakers:
+    title: Speakers
+    output: true
+    permalink: "/:path"
   uploads:
     title: Uploads
     output: true
@@ -101,7 +101,6 @@ organization:
     url: https://www.linkedin.com/in/oscar-luis-vera-p%C3%A9rez-608392125
   - title: envelope
     url: mailto:oscar.vera-perez@inria.fr
-
 social:
 - title: envelope
   url: mailto:sw-days-organizers@kth.se
