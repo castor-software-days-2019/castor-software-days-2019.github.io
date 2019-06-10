@@ -8,7 +8,7 @@
   - from: '10:30'
     to: '10:50'
     type: session
-    title: CASTOR Talks
+    title: 
     author: Martin Monperrus , KTH
     link: monperrus
   - from: '10:50'
@@ -58,7 +58,7 @@
   - from: '14:15'
     to: '14:35'
     type: session
-    title: CASTOR Talks
+    title: 
     author: Tobias Furuholm, Combient
     link: furuholm
   - from: '14:35'
@@ -82,7 +82,7 @@
   - from: '10:30'
     to: '10:50'
     type: session
-    title: CASTOR Talks
+    title: 
     author: Andrei Sabelfeld, Chalmers
     link: sabelfeld
   - from: '10:50'
@@ -129,7 +129,7 @@
   - from: '14:15'
     to: '14:35'
     type: session
-    title: CASTOR Talks
+    title: 
     author: Elena Troubitsyna, KTH
     link: 
   - from: '14:35'
@@ -159,7 +159,7 @@
   - from: '10:30'
     to: '11:00'
     type: session
-    title: CASTOR Talks
+    title: 
     author: Leila Bahri, KTH
     link: bahri
   - from: '11:00'
@@ -200,7 +200,7 @@
   - from: '14:15'
     to: '14:45'
     type: session
-    title: CASTOR Talks
+    title: 
     author: Paris Carbone, RISE
     link: carbone
   - from: '14:45'
