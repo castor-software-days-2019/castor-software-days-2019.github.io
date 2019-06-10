@@ -199,7 +199,7 @@
 }
 
 .fc-axis.fc-time.fc-widget-content{
-    height: 60px;
+    height: 40px;
     vertical-align: top;
 }
 .fc-event-container{
@@ -219,11 +219,14 @@
 }
 
 .event-author{
-    font-size: 9pt;
+    font-size: 7pt;
     font-weight: bold;
     margin-left: 10px;
 
-    
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
 }
 
 .event-description{
