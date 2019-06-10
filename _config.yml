@@ -12,11 +12,11 @@ collections:
   speakers:
     title: Speakers
     output: true
-    permalink: "speaker/:path"
+    permalink: "/:path"
   keynotes:
     title: Keynotes
     output: true
-    permalink: "keynote/:path"
+    permalink: "/:path"
   posts:
     title: Posts
     output: true

@@ -17,21 +17,23 @@
                 {% for member in site.keynotes %}
                 {% assign remainder = forloop.index | modulo:3 %}
                 <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
-                        <h4>{{ member.name }}</h4>
-                        <p class="text-muted" >{{ member.position }}</p>
-                        <ul class="list-inline social-buttons">
-                            {% for network in member.social %}
-                            <li>
-                                <a href="{{ network.url }}">
-                                    <i class="fa fa-{{ network.title }}"></i>
-                                </a>
-                            </li>
-                            {% endfor %}
+                        <div class="team-member">
+                            <a href="{{member.url}}">
+                                <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                            </a>
+                            <h4>{{ member.name }}</h4>
+                            <p class="text-muted" >{{ member.position }}</p>
+                            <ul class="list-inline social-buttons">
+                                {% for network in member.social %}
+                                <li>
+                                    <a href="{{ network.url }}">
+                                        <i class="fa fa-{{ network.title }}"></i>
+                                    </a>
+                                </li>
+                                {% endfor %}
 
-                        </ul>
-                    </div>
+                            </ul>
+                        </div>
 
                 </div>
                 {% if remainder == 0 %}
@@ -52,7 +54,9 @@
                 {% assign remainder = forloop.index | modulo:3 %}
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                        <a href="{{member.url}}">
+                            <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                        </a>
                         <h4>{{ member.name }}</h4>
                         <p class="text-muted">{{ member.position }}</p>
                         <ul class="list-inline social-buttons">
