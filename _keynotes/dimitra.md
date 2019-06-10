@@ -1,13 +1,13 @@
 ---
+title: Dimitra
+position: 0
 name: Dimitra Giannakopoulou
 pic: dimitra
 layout: bio
-position: Research computer scientist at NASA (to be confirmed)
 social:
 - title: globe
   url: https://ti.arc.nasa.gov/profile/dimitra/
 ---
-
 
 Bio
 

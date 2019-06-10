@@ -1,11 +1,12 @@
 ---
+title: Daniel_stenberg
+position: 0
 name: Daniel Stenberg
 pic: daniel
 layout: bio
 work_title: cURL, a hobby project that conquered the world
 datetime: 14-10-2019
 time: 9:00-10:00
-position: The author and maintainer of cURL and libcurl
 social:
 - title: globe
   url: https://daniel.haxx.se/
