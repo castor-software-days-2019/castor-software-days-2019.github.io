@@ -1,4 +1,5 @@
 ---
+title: Kalderimis
 name: Josh Kalderimis
 pic: josh
 layout: bio
@@ -7,7 +8,6 @@ social:
 - title: globe
   url: https://www.linkedin.com/in/joshkalderimis/
 ---
-
 
 Bio
 

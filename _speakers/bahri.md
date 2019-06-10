@@ -1,4 +1,5 @@
 ---
+title: Bahri
 name: Leila Bahri
 pic: leila
 layout: bio
@@ -7,7 +8,6 @@ social:
 - title: globe
   url: https://www.kth.se/profile/lbahri
 ---
-
 
 Bio
 

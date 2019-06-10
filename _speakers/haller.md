@@ -1,4 +1,5 @@
 ---
+title: Haller
 name: Philipp Haller
 pic: philipp
 layout: bio
@@ -7,7 +8,6 @@ social:
 - title: globe
   url: http://www.csc.kth.se/~phaller/
 ---
-
 
 Bio
 

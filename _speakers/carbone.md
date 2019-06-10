@@ -1,4 +1,5 @@
 ---
+title: Carbone
 name: Paris Carbone
 pic: paris
 layout: bio
@@ -7,7 +8,6 @@ social:
 - title: globe
   url: https://www.ri.se/en/paris-carbone
 ---
-
 
 Bio
 

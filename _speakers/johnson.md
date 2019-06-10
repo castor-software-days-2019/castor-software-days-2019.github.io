@@ -1,4 +1,5 @@
 ---
+title: Johnson
 name: Pontus Johnson
 pic: pontus
 layout: bio
@@ -7,7 +8,6 @@ social:
 - title: globe
   url: https://www.kth.se/profile/pontusj
 ---
-
 
 Bio
 

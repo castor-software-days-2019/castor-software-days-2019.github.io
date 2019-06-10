@@ -1,4 +1,5 @@
 ---
+title: Sefidcon
 name: Azimeh Sefidcon
 pic: azimeh
 layout: bio
@@ -7,7 +8,6 @@ social:
 - title: globe
   url: https://www.linkedin.com/in/azimehsefidcon/
 ---
-
 
 Bio
 

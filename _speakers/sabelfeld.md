@@ -1,4 +1,5 @@
 ---
+title: Sabelfeld
 name: Andrei Sabelfeld
 pic: andrei
 layout: bio
@@ -7,7 +8,6 @@ social:
 - title: globe
   url: http://www.cse.chalmers.se/~andrei/
 ---
-
 
 Bio
 

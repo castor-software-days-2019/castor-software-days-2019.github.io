@@ -1,4 +1,5 @@
 ---
+title: Asadi
 name: Sahar Asadi
 pic: sahar
 layout: bio
@@ -7,7 +8,6 @@ social:
 - title: globe
   url: https://www.linkedin.com/in/saharasadi/
 ---
-
 
 Bio
 
