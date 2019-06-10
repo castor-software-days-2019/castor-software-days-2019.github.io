@@ -1,13 +1,17 @@
 ---
+title: David_basin
+position: 0
 name: David Basin
 pic: david
 layout: bio
+<<<<<<< HEAD
 position_txt: Professor of information security at ETH Zurich
+=======
+>>>>>>> eb5c57086e1527166278ab3522cf850515c6e389
 social:
 - title: globe
   url: http://people.inf.ethz.ch/basin/
 ---
-
 
 Bio
 
