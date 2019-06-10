@@ -8,6 +8,10 @@
         "start": "{{track.date}}T{{event.from}}:00",
         "end": "{{track.date}}T{{event.to}}:00",
         "title": "{{event.title}}",
+        "description": "{{event.description}}",
+        "author": "{{event.author}}",
+        "url": "{{event.link}}",
+        "type": "{{event.type}}",
         "classNames": ["program-event", "{{event.type}}-event"],
         
 

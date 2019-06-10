@@ -14,14 +14,24 @@
                                 header: { center: '', left: '', right: '' },
                                 minTime: "09:00:00",
                                 maxTime: "24:00:00",
-                                nowIndicator: true,
-                                slotDuration: "00:30:00",
-                                timeGridMinEventHeight: 30,
+                                nowIndicator: false,
+                                slotDuration: "00:20:00",
+                                timeGridMinEventHeight: 60,
                                 visibleRange: {
                                     start: '2019-10-14',
                                     end: '2019-10-17'
                                 },
-                                defaultView: 'timeGrid',                                
+                                defaultView: 'timeGrid',   
+                                selectable: true, 
+                                eventRender: function(e) {
+                                    
+                                    if(e.event.extendedProps.author)
+                                        $(e.el).append(`<div class="event-author">${e.event.extendedProps.author}</div>`);
+                                    
+                                    if(e.event.extendedProps.description)
+                                        $(e.el).append(`<div class="event-description">${e.event.extendedProps.description}</div>`);
+                                    
+                                },
                                 eventSources: ['data/schedule.json', 'data/presentations.json'],
                             }
                         );

@@ -5,46 +5,221 @@
     to: '24:00'
     title: Hackathon
     type: session
+  - from: '10:30'
+    to: '10:50'
+    type: session
+    title: CASTOR Talks
+    author: Martin Monperrus , KTH
+    link: monperrus
+  - from: '10:50'
+    to: '11:10'
+    type: session
+    title: 
+    author: Dan Green, ERICSON
+    link: 
+  - from: '11:10'
+    to: '11:30'
+    type: session
+    title: 
+    author: TBA
+    link: tba
+  - from: '11:30'
+    to: '11:50'
+    type: session
+    title: 
+    author: TBA
+    link: tba
   - from: '09:00'
     to: '10:00'
     title: Keynote
+    description: cURL, a hobby project that conquered the world
+    author: Daniel Stenberg
+    link: daniel_stenberg
     type: keynote
+  - from: '10:00'
+    to: '10:30'
+    title: Coffee Break
+    type: break
+  - from: '11:50'
+    to: '13:15'
+    title: Lunch Break
+    type: break
   - from: '13:15'
     to: '14:15'
     title: Keynote
+    description: 
+    author: Josh Kalderimis, Travis
+    link: kalderimis
     type: keynote
-
   - from: '17:00'
     to: '18:00'
     title: Reception
     type: break
+  - from: '14:15'
+    to: '14:35'
+    type: session
+    title: CASTOR Talks
+    author: Tobias Furuholm, Combient
+    link: furuholm
+  - from: '14:35'
+    to: '14:55'
+    type: session
+    title: CASTOR Talks
+    author: Philip Haller, KTH
+    link: haller
+  - from: '14:55'
+    to: '15:30'
+    title: Coffee Break
+    type: break
+  - from: '15:30'
+    to: '16:30'
+    title: Ligthning Talks and Demos
+    type: demo
 - track: Security & safety
   date: 2019-10-15
   events: 
-  - from: '11:30'
-    to: '13:15'
-    title: Poster
+  
+  - from: '10:30'
+    to: '10:50'
     type: session
+    title: CASTOR Talks
+    author: Andrei Sabelfeld, Chalmers
+    link: sabelfeld
+  - from: '10:50'
+    to: '11:10'
+    type: session
+    title: 
+    author: Pontus Johnson, KTH
+    link: johnson
+  - from: '11:10'
+    to: '11:30'
+    type: session
+    title: 
+    author: Roberto Guanciale KTH - TBA
+    link: tba
+  - from: '11:30'
+    to: '11:50'
+    type: session
+    title: 
+    author: TBA Ericsson
+    link: tba
   - from: '09:00'
     to: '10:00'
     title: Keynote
+    description: 
+    author: David Basin, RTH Zurich
+    link: david_basin
     type: keynote
+  - from: '10:00'
+    to: '10:30'
+    title: Coffee Break
+    type: break
+
+  - from: '11:50'
+    to: '13:15'
+    title: Lunch and poster session
+    type: break
   - from: '13:15'
     to: '14:15'
     title: Keynote
     type: keynote
+    author: Dimitra Giannakopoulou, NASA Ames (TBC)
+    description:
+    link: dimitra
+  - from: '14:15'
+    to: '14:35'
+    type: session
+    title: CASTOR Talks
+    author: Elena Troubitsyna, KTH
+    link: 
+  - from: '14:35'
+    to: '14:55'
+    type: session
+    title: CASTOR Talks
+    author: TBA
+    link: 
+  - from: '14:55'
+    to: '15:15'
+    type: session
+    title: CASTOR Talks
+    author: TBA
+    link: 
+  - from: '15:15'
+    to: '15:45'
+    title: Coffee Break
+    type: break
+  - from: '15:45'
+    to: '16:45'
+    title: Ligthning Talks and Demos
+    type: demo
 - track: Distributed systems
   date: 2019-10-16
   events: 
-  - from: '17:00'
-    to: '20:00'
-    title: LLVM
+
+  - from: '10:30'
+    to: '11:00'
     type: session
+    title: CASTOR Talks
+    author: Leila Bahri, KTH
+    link: bahri
+  - from: '11:00'
+    to: '11:30'
+    type: session
+    title: 
+    author: Jim Dowling, KTH
+    link: dowling
+  - from: '11:30'
+    to: '12:00'
+    type: session
+    title: 
+    author: Sahar Asadi, King
+    link: asadi
   - from: '09:00'
     to: '10:00'
     title: Keynote
     type: keynote
+    description: 
+    author: Peter Pietzuch, Imperial College London
+    link: pietzuc
+  - from: '10:00'
+    to: '10:30'
+    title: Coffee Break
+    type: break
+
+  - from: '12:00'
+    to: '13:15'
+    title: Lunch Break
+    type: break
   - from: '13:15'
     to: '14:15'
     title: Keynote
     type: keynote
+    author: Ziawasch Abedjan, TU Berlin 
+    link: abedjan
+    description: A Holistic Approach for Effective Error Detection
+  - from: '14:15'
+    to: '14:45'
+    type: session
+    title: CASTOR Talks
+    author: Paris Carbone, RISE
+    link: carbone
+  - from: '14:45'
+    to: '15:15'
+    type: session
+    title: CASTOR Talks
+    author: Azimeh Sefidcon, ERICSON
+    link: sefidcon
+  - from: '15:15'
+    to: '15:45'
+    type: session
+    title: CASTOR Talks
+    author: Wolfgang John, ERICSON
+    link: john
+  - from: '15:45'
+    to: '17:00'
+    title: Coffee Break
+    type: break
+  - from: '17:00'
+    to: '20:00'
+    title: LLVM meetup
+    type: session

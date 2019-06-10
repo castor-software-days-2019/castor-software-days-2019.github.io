@@ -11,10 +11,7 @@ social:
   url: https://daniel.haxx.se/
 ---
 
-Bio
+#### Abstract
 
-loremLabore elit adipisicing ex mollit cillum consectetur nulla. Sunt non voluptate ipsum occaecat excepteur. Qui excepteur eiusmod consequat deserunt et dolore pariatur.
-
-Eu consectetur incididunt et ad duis. Laboris reprehenderit sint irure anim mollit sit cillum ut cillum dolore commodo nisi occaecat enim. Id excepteur Lorem elit magna. Deserunt irure irure enim nulla non officia occaecat. Tempor dolore laborum ad minim sit minim esse exercitation incididunt veniam proident cillum. Adipisicing consequat nisi ut ut elit.
-
-Ea occaecat amet minim laboris cupidatat nostrud ullamco excepteur excepteur do incididunt velit. Reprehenderit exercitation tempor minim enim adipisicing nisi. Irure dolor excepteur anim nulla reprehenderit aliqua fugiat voluptate ea irure ad. Sit dolor elit ex dolore ex. Culpa duis amet aliqua dolor aute voluptate pariatur nisi mollit laborum magna mollit in ut. Anim aliquip et sit culpa in consectetur aliquip pariatur qui consectetur aliquip consectetur. Duis aute aliquip id adipisicing fugiat.
+The curl projected started in 1998 and is currently running in more than six billion installtions world-wide. It is widely considered to be the defacto multi platform URL transfer library and it is the empowering foundation of countless apps and millions of web sites and in billions of devices.
+Daniel talks about how the curl project ended up like this without any particular company backing and where twenty years of development have taken us. How is this project managed, how has the success changed us, what's coming up next and how come the project never gets done?

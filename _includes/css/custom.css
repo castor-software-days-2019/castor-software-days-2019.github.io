@@ -95,6 +95,9 @@
     border-color: #e6d3b8 !important;
 }
 
+.demo-event{
+    border-color: #aa554d !important;
+}
 
 .break-event{
     border-color: #565e63 !important;
@@ -195,6 +198,14 @@
     margin-bottom: 20px;
 }
 
+.fc-axis.fc-time.fc-widget-content{
+    height: 40px;
+    vertical-align: top;
+}
+.fc-event-container{
+    cursor: pointer;
+}
+
 .page-content h1, .page-content h2, .page-content h3, .page-content h4, .page-content h5{
     margin-bottom: 45px;
 
@@ -205,4 +216,23 @@
 
 .page-content a{
     color: #6a554d;
+}
+
+.event-author{
+    font-size: 9pt;
+    font-weight: bold;
+    margin-left: 10px;
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+}
+
+.event-description{
+    font-size: 8pt;
+    margin-top: 10px;
+}
+.fc-title{
+    font-size: 12pt;
 }
