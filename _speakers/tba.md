@@ -1,11 +1,11 @@
 ---
-title: Tba
-position: 0
 name: TBA
 layout: bio
 pic: tba
-social: 
+position: TBA
+social:
 ---
+
 
 Bio
 

@@ -1,13 +1,13 @@
 ---
-title: Sefidcon
-position: 0
 name: Azimeh Sefidcon
 pic: azimeh
 layout: bio
+position: Director, Cloud Systems and Platforms Research at Ericsson
 social:
 - title: globe
   url: https://www.linkedin.com/in/azimehsefidcon/
 ---
+
 
 Bio
 

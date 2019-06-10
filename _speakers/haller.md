@@ -1,13 +1,13 @@
 ---
-title: Haller
-position: 0
 name: Philipp Haller
 pic: philipp
 layout: bio
+position: Associate professor of computer science at KTH
 social:
 - title: globe
   url: http://www.csc.kth.se/~phaller/
 ---
+
 
 Bio
 
