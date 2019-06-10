@@ -1,4 +1,5 @@
 ---
+title: David_basin
 name: David Basin
 pic: david
 layout: bio
