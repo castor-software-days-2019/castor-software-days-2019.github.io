@@ -2,7 +2,7 @@
 name: Pontus Johnson
 pic: pontus
 layout: bio
-position: Professor of cyber security and software architecture at KTH
+position_txt: Professor of cyber security and software architecture at KTH
 social:
 - title: globe
   url: https://www.kth.se/profile/pontusj

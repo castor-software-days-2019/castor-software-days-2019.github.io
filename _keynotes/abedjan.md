@@ -3,7 +3,7 @@ name: Ziawasch Abedjan
 pic: ziawasch
 layout: bio
 work_title: A Holistic Approach for Effective Error Detection 
-position: Assistant Professor and head of the Big Data Management Group at TU Berlin
+position_txt: Assistant Professor and head of the Big Data Management Group at TU Berlin
 social:
 - title: globe
   url: https://www.bigdama.tu-berlin.de/menue/team/prof_dr_ziawasch_abedjan/

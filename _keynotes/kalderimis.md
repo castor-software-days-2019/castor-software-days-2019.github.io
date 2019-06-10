@@ -2,7 +2,7 @@
 name: Josh Kalderimis
 pic: josh
 layout: bio
-position: VP of Product at Travis CI
+position_txt: VP of Product at Travis CI
 social:
 - title: globe
   url: https://www.linkedin.com/in/joshkalderimis/

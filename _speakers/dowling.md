@@ -2,7 +2,7 @@
 name: Jim Dowling
 pic: jim
 layout: bio
-position: Associate professor of computer science at KTH
+position_txt: Associate professor of computer science at KTH
 social:
 - title: globe
   url: https://www.kth.se/profile/jdowling

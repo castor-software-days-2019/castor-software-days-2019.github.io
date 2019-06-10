@@ -2,7 +2,7 @@
 name: TBA
 layout: bio
 pic: tba
-position: TBA
+position_txt: TBA
 social:
 ---
 
