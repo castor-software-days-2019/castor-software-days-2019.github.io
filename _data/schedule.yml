@@ -5,6 +5,7 @@
     to: '24:00'
     title: Hackathon
     type: session
+    link: ci_art_hackathon
   - from: '10:30'
     to: '10:50'
     type: session
