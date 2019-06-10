@@ -15,7 +15,7 @@
     to: '11:10'
     type: session
     title: 
-    author: Dan Green, ERICSON
+    author: Dan Green, Ericsson
     link: 
   - from: '11:10'
     to: '11:30'
@@ -207,13 +207,13 @@
     to: '15:15'
     type: session
     title: 
-    author: Azimeh Sefidcon, ERICSON
+    author: Azimeh Sefidcon, Ericsson
     link: sefidcon
   - from: '15:15'
     to: '15:45'
     type: session
     title: 
-    author: Wolfgang John, ERICSON
+    author: Wolfgang John, Ericsson
     link: john
   - from: '15:45'
     to: '17:00'
