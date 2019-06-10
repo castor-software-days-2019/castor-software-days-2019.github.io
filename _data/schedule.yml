@@ -64,7 +64,7 @@
   - from: '14:35'
     to: '14:55'
     type: session
-    title: CASTOR Talks
+    title: 
     author: Philip Haller, KTH
     link: haller
   - from: '14:55'
@@ -135,13 +135,13 @@
   - from: '14:35'
     to: '14:55'
     type: session
-    title: CASTOR Talks
+    title: 
     author: TBA
     link: 
   - from: '14:55'
     to: '15:15'
     type: session
-    title: CASTOR Talks
+    title: 
     author: TBA
     link: 
   - from: '15:15'
@@ -206,13 +206,13 @@
   - from: '14:45'
     to: '15:15'
     type: session
-    title: CASTOR Talks
+    title: 
     author: Azimeh Sefidcon, ERICSON
     link: sefidcon
   - from: '15:15'
     to: '15:45'
     type: session
-    title: CASTOR Talks
+    title: 
     author: Wolfgang John, ERICSON
     link: john
   - from: '15:45'
