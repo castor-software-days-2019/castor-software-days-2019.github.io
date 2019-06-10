@@ -1,4 +1,5 @@
 ---
+title: Pietzuc
 name: Peter Pietzuch
 pic: peter
 layout: bio
@@ -7,7 +8,6 @@ social:
 - title: globe
   url: https://www.doc.ic.ac.uk/~prp/
 ---
-
 
 Bio
 

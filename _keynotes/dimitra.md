@@ -1,4 +1,5 @@
 ---
+title: Dimitra
 name: Dimitra Giannakopoulou
 pic: dimitra
 layout: bio
@@ -7,7 +8,6 @@ social:
 - title: globe
   url: https://ti.arc.nasa.gov/profile/dimitra/
 ---
-
 
 Bio
 

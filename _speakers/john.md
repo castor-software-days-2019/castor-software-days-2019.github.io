@@ -1,4 +1,5 @@
 ---
+title: John
 name: Wolfgang John
 pic: wolfgang
 layout: bio
@@ -7,7 +8,6 @@ social:
 - title: globe
   url: https://www.ericsson.com/en/blog/contributors/u-z/wolfgang-john
 ---
-
 
 Bio
 

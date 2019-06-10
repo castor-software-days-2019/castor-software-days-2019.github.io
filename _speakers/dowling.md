@@ -1,4 +1,5 @@
 ---
+title: Dowling
 name: Jim Dowling
 pic: jim
 layout: bio
@@ -7,7 +8,6 @@ social:
 - title: globe
   url: https://www.kth.se/profile/jdowling
 ---
-
 
 Bio
 

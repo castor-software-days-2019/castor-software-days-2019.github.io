@@ -1,4 +1,5 @@
 ---
+title: Daniel_stenberg
 name: Daniel Stenberg
 pic: daniel
 layout: bio
