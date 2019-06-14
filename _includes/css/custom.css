@@ -236,3 +236,10 @@
 .fc-title{
     font-size: 12pt;
 }
+
+.register-btn{
+    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 18pt;
+
+    margin-top: 40px;
+}

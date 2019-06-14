@@ -5,6 +5,7 @@ type: page
 layout: page
 description: Hackathon about Continuous Integration Data
 link: Hackathon
+header: true
 img:
 - img/r1/2.JPG
 - img/r1/1.JPG
@@ -20,7 +21,10 @@ place_link: https://www.r1.kth.se/
 date-str: Oct 14 2019
 ---
 
-We invite you to the first hackathon about art and continuous integration. KTH Students, professional engineers, and curious persons are welcome to join this first ever performance of software art based on continuous integration data.
+
+We invite you to the first hackathon about art and continuous integration.
+KTH Students, professional engineers, and curious persons are welcome to join this first ever performance of software art based on continuous integration data.
+
 
 ## The Concept
 

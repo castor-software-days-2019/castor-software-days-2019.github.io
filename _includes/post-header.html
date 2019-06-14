@@ -1,6 +1,7 @@
 
 
 {% for post in site.pages %}
+    {% if post.header %}
     <li class='post-url {% if page.url == post.url %}active{% endif %}'>
         <a class="page-scroll" to="#{{post.ref}}" id='{{post.id}}' href="{{include.home}}#{{post.ref}}">{{post.link}} 
             {% if post.new %}
@@ -8,4 +9,5 @@
             {% endif %}
         </a>
     </li>
+    {% endif %}
 {% endfor %}

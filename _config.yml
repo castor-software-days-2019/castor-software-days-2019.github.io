@@ -13,6 +13,10 @@ collections:
     title: Pages
     output: true
     permalink: "/:path"
+  hidden_pages:
+    title: Hidden pages
+    output: true
+    permalink: "/:path"
   posts:
     title: Posts
     output: true

@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+{% include header.html home='/' %}
+
+
+<div class="jumbotron" style="padding-top: 180px; background-image: url('{{page.img.first}}'); background-size: cover;background-repeat: no-repeat;background-position: 50% 50%;">
+    <div class="container">
+        
+        <h2 style="font-size:32pt; text-align: center; color:white">
+            {{page.title}} 
+            <br/>
+        <a class='btn btn-primary register-btn' href="https://axacoair.se/go?4ZmruCAt" target="_blank">Go for registration</a>
+        </h2>
+
+    
+    </div>
+</div>
+
+
+<div class="container">
+
+    <div class="page-content">
+        {{ content }}
+    </div>   
+
+</div>
+
+
+<script>
+/*
+    document.addEventListener("DOMContentLoaded", function () {
+            $("#title-link").click(() => {
+                window.location.replace("/")
+            })
+        }
+    )*/
+
+</script>
