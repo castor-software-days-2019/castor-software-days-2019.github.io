@@ -1,10 +1,9 @@
 ---
-layout: one_time_pages/sw_registration
 title: Some information about registration
-img: 
-  - /img/campus.jpg
+layout: one_time_pages/sw_registration
+img:
+- "/img/campus.jpg"
 ---
-
 
 Participation is free for students, KTH staff members and speakers. Other participants are asked for a **900 SEK** flat rate.
 All the participants get access to all the events during the three days: talks, posters, LLVM meetup, breaks, lunches and reception. 

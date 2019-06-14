@@ -5,16 +5,16 @@ collections:
   calendar:
     title: Calendar
     output: false
+  hidden_pages:
+    title: Hidden pages
+    output: true
+    permalink: "/:path"
   keynotes:
     title: Keynotes
     output: true
     permalink: "/:path"
   pages:
     title: Pages
-    output: true
-    permalink: "/:path"
-  hidden_pages:
-    title: Hidden pages
     output: true
     permalink: "/:path"
   posts:
