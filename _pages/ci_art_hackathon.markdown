@@ -21,7 +21,6 @@ place_link: https://www.r1.kth.se/
 date-str: Oct 14 2019
 ---
 
-
 We invite you to the first hackathon about art and continuous integration.
 KTH Students, professional engineers, and curious persons are welcome to join this first ever performance of software art based on continuous integration data.
 
