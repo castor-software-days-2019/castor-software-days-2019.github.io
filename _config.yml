@@ -109,10 +109,10 @@ organization:
   pic: javier
   position: Web consultant
   social:
-    - title: globe
-      url: https://www.kth.se/profile/javierca
-    - title: envelope
-      url: mailto:javierca@kth.se
+  - title: globe
+    url: https://www.kth.se/profile/javierca
+  - title: envelope
+    url: mailto:javierca@kth.se
 social:
 - title: envelope
   url: mailto:sw-days-organizers@kth.se
