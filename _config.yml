@@ -105,6 +105,14 @@ organization:
     url: https://www.linkedin.com/in/oscar-luis-vera-p%C3%A9rez-608392125
   - title: envelope
     url: mailto:oscar.vera-perez@inria.fr
+- name: Javier Cabrera Arteaga
+  pic: javier
+  position: Web consultant
+  social:
+    - title: globe
+      url: https://www.kth.se/profile/javierca
+    - title: envelope
+      url: mailto:javierca@kth.se
 social:
 - title: envelope
   url: mailto:sw-days-organizers@kth.se
