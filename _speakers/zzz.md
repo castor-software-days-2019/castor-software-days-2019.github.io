@@ -1,5 +1,5 @@
 ---
-title: Tba
+title: TBA
 name: TBA
 layout: bio
 pic: tba
