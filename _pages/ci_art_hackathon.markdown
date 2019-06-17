@@ -22,14 +22,15 @@ date-str: Oct 14 2019
 ---
 
 We invite you to the first hackathon about art and continuous integration.
-KTH Students, professional engineers, and curious persons are welcome to join this first ever performance of software art based on continuous integration data.
+Passionate and creative software students, software developers, artists,
+designers and curious citizens are welcome to join this first ever performance of software art based on continuous integration data.
 
 
 ## The Concept
 
 In this hackathon, we will dive into the extraordinary activity that occurs in a continuous integration server through visual and sound representations.
 
-The goal is to build beautiful visualizations or sonifications of continuous integration (of compilatios, test, analysis, packaging, deployment). These representations can be purely visual with beautiful images (still), videos (moving, à la Gource), . 
+The goal is to build beautiful visualizations or sonifications of continuous integration (of compilations, test, analysis, packaging, deployment). These representations can be purely visual with beautiful images (still), videos (moving, à la Gource), . 
 
 Inspirations for such visual structures can be found at the Whitney Museum. Representations can also be based on sound, through the sonification of the CI activity. Participants can be inspired by the sonification of the continuous activity of wikipedia. 
 
