@@ -1,6 +1,7 @@
 ---
 title: Daniel_stenberg
 name: Daniel Stenberg
+_sort: Stenberg
 pic: daniel
 layout: bio
 work_title: cURL, a hobby project that conquered the world

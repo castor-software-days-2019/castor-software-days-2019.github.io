@@ -1,6 +1,7 @@
 ---
 title: Dimitra
 name: Dimitra Giannakopoulou
+_sort: Giannakopoulou
 pic: dimitra
 layout: bio
 position_txt: Research computer scientist at NASA (to be confirmed)

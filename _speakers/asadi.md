@@ -1,6 +1,7 @@
 ---
 title: Asadi
 name: Sahar Asadi
+_sort: Asadi
 pic: sahar
 layout: bio
 position_txt: Research Lead (AI Research and Development) at King

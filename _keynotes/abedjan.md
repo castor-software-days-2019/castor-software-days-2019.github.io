@@ -1,6 +1,7 @@
 ---
 title: Abedjan
 name: Ziawasch Abedjan
+_sort: Abedjan
 pic: ziawasch
 layout: bio
 work_title: A Holistic Approach for Effective Error Detection

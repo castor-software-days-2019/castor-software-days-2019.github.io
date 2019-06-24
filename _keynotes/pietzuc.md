@@ -1,6 +1,7 @@
 ---
 title: Pietzuc
 name: Peter Pietzuch
+_sort: Pietzuch
 pic: peter
 layout: bio
 position_txt: Professor of computer science at Imperial College London

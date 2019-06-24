@@ -1,6 +1,7 @@
 ---
 title: Monperrus
 name: Martin Monperrus
+_sort: Monperrus
 pic: martin
 layout: bio
 position_txt: Professor of software technology at KTH

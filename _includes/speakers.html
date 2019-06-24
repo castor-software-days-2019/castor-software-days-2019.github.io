@@ -13,10 +13,11 @@
                 </div>
             </div>
             <br><br>
-            <div class="row">
-                {% for member in site.keynotes %}
+            <div class="crow">
+                {% assign keynotes = site.keynotes | sort: '_sort' %}
+                {% for member in keynotes %}
                 {% assign remainder = forloop.index | modulo:3 %}
-                <div class="col-sm-4">
+                <div class="ccol">
                         <div class="team-member">
                             <a href="{{member.url}}">
                                 <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
@@ -38,7 +39,7 @@
                 </div>
                 {% if remainder == 0 %}
                     </div>
-                    <div class="row">
+                    <div class="crow">
                 {% endif %}
                 {% endfor %}
             </div>
@@ -49,10 +50,11 @@
                 </div>
             </div>
             <br><br>
-            <div class="row">
-                {% for member in site.speakers %}
+            <div class="crow">
+                {% assign speakers = site.speakers | sort: '_sort' %}
+                {% for member in speakers %}
                 {% assign remainder = forloop.index | modulo:3 %}
-                <div class="col-sm-4">
+                <div class="ccol">
                     <div class="team-member">
                         <a href="{{member.url}}">
                             <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
@@ -73,7 +75,7 @@
                 </div>
                 {% if remainder == 0 %}
                     </div>
-                    <div class="row">
+                    <div class="crow">
                 {% endif %}
                 {% endfor %}
             </div>

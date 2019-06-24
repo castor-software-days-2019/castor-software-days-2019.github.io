@@ -1,6 +1,7 @@
 ---
 title: Haller
 name: Philipp Haller
+_sort: Haller
 pic: philipp
 layout: bio
 position_txt: Associate professor of computer science at KTH

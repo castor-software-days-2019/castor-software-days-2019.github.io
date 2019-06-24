@@ -1,6 +1,7 @@
 ---
 title: Furuholm
 name: Tobias Furuholm
+_sort: Furuholm
 pic: tobias
 layout: bio
 position_txt: Tech Lead at SoftSense, Combient
