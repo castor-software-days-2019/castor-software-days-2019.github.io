@@ -77,6 +77,8 @@
     to: '16:30'
     title: Ligthning Talks and Demos
     type: demo
+    author: Johan Tordsson
+    link: tordsson
 - track: Security & safety
   date: 2019-10-15
   events: 
