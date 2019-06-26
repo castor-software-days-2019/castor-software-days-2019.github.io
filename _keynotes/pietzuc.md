@@ -4,6 +4,7 @@ name: Peter Pietzuch
 _sort: Pietzuch
 pic: peter
 layout: bio
+work_title: Large Scale Machine Learning
 position_txt: Professor of computer science at Imperial College London
 social:
 - title: globe
