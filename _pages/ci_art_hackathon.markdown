@@ -30,25 +30,26 @@ designers and curious citizens are welcome to join this first ever performance o
 
 In this hackathon, we will dive into the extraordinary activity that occurs in a continuous integration server through visual and sound representations.
 
-The goal is to build beautiful visualizations or sonifications of continuous integration (of compilations, test, analysis, packaging, deployment). These representations can be purely visual with beautiful images (still), videos (moving, à la Gource), . 
+The goal is to build beautiful visualizations or sonifications of continuous integration (of compilations, test, analysis, packaging, deployment). These representations can be purely visual with beautiful images (still), videos (moving, à la [Gource](https://gource.io/)), or soundtracks (e.g., the sound of the continuous factory of open source software can be synthesized with [Tone.js](https://tonejs.github.io/)).
 
-Inspirations for such visual structures can be found at the Whitney Museum. Representations can also be based on sound, through the sonification of the CI activity. Participants can be inspired by the sonification of the continuous activity of wikipedia. 
+The hackathon will be based on the stream of [Travis](https://travis-ci.org/) builds provided through the [travis websocket](ws://travis.durieux.me). Examples of artistic representations of Travis include the [rain of commit messages](https://travis.durieux.me/rain.html), the [forest of builds](https://travis.durieux.me/tree/) or the [sound of programming languages](https://kth.github.io/ci-hackathon/cabrera_baudry/index.html).
+
+More inspirations for such  visual representations of software can be found at the [CoDeDoc exhibition at the Whitney Museum](https://artport.whitney.org/commissions/codedoc/index.shtml). Representations can also be based on sound, through the sonification of the CI activity. Participants can be inspired by the [sonification of the continuous activity of wikipedia](http://listen.hatnote.com/).
 
 ## The Venue
 
-The hackathon will take place in a very peculiar venue, the old structure of the very first nuclear reactor of Sweden, called R1. It was a research reactor located on the main campus of KTH at Valhallavägen, and was active from 1954 to 1970. It was completely dismantled, and there is nothing left of it today. It is in the reactor hall that our hackathon will take place.
+The hackathon will take place in a very peculiar venue, the old structure of the very first nuclear reactor of Sweden, called [KTH R1](https://www.r1.kth.se/). It was a research reactor located on the main campus of KTH at Valhallavägen, and was active from 1954 to 1970. It was completely dismantled, and there is nothing left of it today. It is in the reactor hall that our hackathon will take place.
 
 ## Technology
 
-See <https://github.com/KTH/ci-hackathon/>
+See [Github repository dedicated to the hackathon](https://github.com/KTH/ci-hackathon/)
 
 ## Frequently Asked Questions
 
 - **Do I have to know how to program to participate to the hackathon?**
 
     No. You can join an existing team and it is great to do statistics and data visualization based on the dump of Travis CI builds available here: [https://zenodo.org/record/2560966](https://zenodo.org/record/2560966)
-    (small version: TODO)
-
+    
 - **Do I have to use Travis CI?**
 
     No, you can use another open CI API or CI dataset. The goal is to something fun or aesthetic with continuous integration data.  
@@ -66,6 +67,4 @@ See <https://github.com/KTH/ci-hackathon/>
 
 - **Can I start before the hackathon’s day?**
 
-    Of course, feel free to start before and come with cool demo on Oct 14 2019 in R1. 
-
-
+    Of course, feel free to start before and come with cool demo on Oct 14 2019 in R1.
