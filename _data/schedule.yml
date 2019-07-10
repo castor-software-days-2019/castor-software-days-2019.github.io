@@ -74,17 +74,12 @@
     title: Coffee Break
     type: break
   - from: '15:30'
-    to: '16:00'
-    title: Ligthning Talks and Demos
-    type: demo
-    author: Johan Tordsson
-    link: tordsson
-  - from: '16:00'
     to: '16:30'
     title: Ligthning Talks and Demos
     type: demo
-    author: Mehrdad Mamaghani
-    link: mehrdad
+    author: Johan Tordsson, Mehrdad Mamaghani and Simone Stefani
+    link: 
+  
 - track: Security & safety
   date: 2019-10-15
   events: 

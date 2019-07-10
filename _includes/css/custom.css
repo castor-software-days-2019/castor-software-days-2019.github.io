@@ -235,6 +235,7 @@
 }
 .fc-title{
     font-size: 12pt;
+    max-width: 140px;
 }
 
 .register-btn{
