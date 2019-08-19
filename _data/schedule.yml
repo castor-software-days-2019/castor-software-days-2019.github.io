@@ -87,7 +87,7 @@
   - from: '09:00'
     to: '10:00'
     title: Keynote
-    description: 'Security Protocols: Model Checking Standards'
+    description: Security Protocols, Model Checking Standards
     author: David Basin, ETH Zurich
     link: david_basin
     type: keynote
