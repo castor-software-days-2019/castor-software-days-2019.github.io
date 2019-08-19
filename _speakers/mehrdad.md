@@ -7,6 +7,6 @@ layout: bio
 position_txt: Head of R&D at Analytics & AI Swedbank
 social:
 - title: globe
-  url: https://www.kth.se/profile/pontusj
+  url: https://scholar.google.se/citations?user=G3GLWlkAAAAJ&hl=sv
 ---
 
