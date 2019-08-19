@@ -183,8 +183,8 @@
     to: '11:30'
     type: session
     title: 
-    author: Sina Sheikholeslami, KTH
-    link: sina
+    author: Paris Carbone, RISE
+    link: carbone
   - from: '11:30'
     to: '12:00'
     type: session
@@ -211,8 +211,8 @@
     to: '15:15'
     type: session
     title: 
-    author: Paris Carbone, RISE
-    link: carbone
+    author: Sina Sheikholeslami, KTH
+    link: sina
   - from: '15:15'
     to: '15:45'
     type: session
