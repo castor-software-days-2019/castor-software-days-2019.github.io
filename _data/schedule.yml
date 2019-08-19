@@ -157,28 +157,11 @@
     to: '16:45'
     title: Ligthning Talks and Demos
     type: demo
+
 - track: Distributed systems
   date: 2019-10-16
   events: 
 
-  - from: '10:30'
-    to: '11:00'
-    type: session
-    title: 
-    author: Leila Bahri, KTH
-    link: bahri
-  - from: '11:00'
-    to: '11:30'
-    type: session
-    title: 
-    author: Jim Dowling, KTH
-    link: dowling
-  - from: '11:30'
-    to: '12:00'
-    type: session
-    title: 
-    author: Sahar Asadi, King
-    link: asadi
   - from: '09:00'
     to: '10:00'
     title: Keynote
@@ -190,6 +173,24 @@
     to: '10:30'
     title: Coffee Break
     type: break
+  - from: '10:30'
+    to: '11:00'
+    type: session
+    title: 
+    author: Sahar Asadi, King
+    link: asadi
+  - from: '11:00'
+    to: '11:30'
+    type: session
+    title: 
+    author: Sina Sheikholeslami, KTH
+    link: sina
+  - from: '11:30'
+    to: '12:00'
+    type: session
+    title: 
+    author: Leila Bahri, KTH
+    link: bahri
 
   - from: '12:00'
     to: '13:15'
@@ -204,23 +205,27 @@
     description: A Holistic Approach for Effective Error Detection
   - from: '14:15'
     to: '14:45'
-    type: session
-    title: 
-    author: Paris Carbone, RISE
-    link: carbone
+    title: Coffee Break
+    type: break
   - from: '14:45'
     to: '15:15'
     type: session
     title: 
-    author: Azimeh Sefidcon, Ericsson
-    link: sefidcon
+    author: Paris Carbone, RISE
+    link: carbone
   - from: '15:15'
     to: '15:45'
     type: session
     title: 
+    author: Azimeh Sefidcon, Ericsson
+    link: sefidcon
+  - from: '15:45'
+    to: '16:15'
+    type: session
+    title: 
     author: Wolfgang John, Ericsson
     link: john
-  - from: '15:45'
+  - from: '16:15'
     to: '17:00'
     title: Coffee Break
     type: break
