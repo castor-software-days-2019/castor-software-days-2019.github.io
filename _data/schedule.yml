@@ -84,6 +84,17 @@
   date: 2019-10-15
   events: 
   
+  - from: '09:00'
+    to: '10:00'
+    title: Keynote
+    description: A Holistic Approach for Effective Error Detection
+    author: David Basin, ETH Zurich
+    link: david_basin
+    type: keynote
+  - from: '10:00'
+    to: '10:30'
+    title: Coffee Break
+    type: break
   - from: '10:30'
     to: '10:50'
     type: session
@@ -108,18 +119,6 @@
     title: 
     author: TBA Ericsson
     link: tba
-  - from: '09:00'
-    to: '10:00'
-    title: Keynote
-    description: 
-    author: David Basin, ETH Zurich
-    link: david_basin
-    type: keynote
-  - from: '10:00'
-    to: '10:30'
-    title: Coffee Break
-    type: break
-
   - from: '11:50'
     to: '13:15'
     title: Lunch and poster session
@@ -166,7 +165,7 @@
     to: '10:00'
     title: Keynote
     type: keynote
-    description: 
+    description: Scaling Deep Learning on Multi-GPU Servers
     author: Peter Pietzuch, Imperial College London
     link: pietzuc
   - from: '10:00'
