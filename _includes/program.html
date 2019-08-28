@@ -12,7 +12,7 @@
                             var calendarNotMobile = new FullCalendar.Calendar(
                              document.getElementById("full-calendar"),
                             {
-                                plugins: ['timeGrid'],
+                                plugins: ['timeGrid',  'moment'],
                                 header: { center: '', left: '', right: '' },
                                 minTime: "09:00:00",
                                 maxTime: "24:00:00",
@@ -22,6 +22,10 @@
                                 visibleRange: {
                                     start: '2019-10-14',
                                     end: '2019-10-17'
+                                },
+                                columnHeaderText: function(date) {
+                                    
+                                    return moment(date).format('ddd D/MM');
                                 },
                                 defaultView: 'timeGrid',   
                                 selectable: true, 
