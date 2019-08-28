@@ -48,6 +48,6 @@ See [Github repository dedicated to the hackathon](https://github.com/KTH/ci-hac
 
 Please the [FAQ page for the hackathon](https://kth.github.io/ci-hackathon/faq.html).
 
-Other questions? Please contact baudry@kth.se
+Other questions? Please contact ci-hackathon@eecs.kth.se
 
 Seats are limited! [Register here](https://www.castor.kth.se/event/kth-continuous-integration-art-hackathon/) before 10 October
