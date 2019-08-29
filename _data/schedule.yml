@@ -1,11 +1,17 @@
 - track: DevOps
   date: 2019-10-14
   events: 
-  - from: '18:00'
-    to: '24:00'
-    title: Hackathon
-    type: session
-    link: ci_art_hackathon
+  - from: '09:00'
+    to: '10:00'
+    title: Keynote
+    description: cURL, a hobby project that conquered the world
+    author: Daniel Stenberg
+    link: daniel_stenberg
+    type: keynote
+  - from: '10:00'
+    to: '10:30'
+    title: Coffee Break
+    type: break
   - from: '10:30'
     to: '10:50'
     type: session
@@ -17,7 +23,7 @@
     type: session
     title: 
     author: Dan Green, Ericsson
-    link: 
+    link: green
   - from: '11:10'
     to: '11:30'
     type: session
@@ -30,18 +36,7 @@
     type: session
     title: 
     author: TBA
-    link: tba
-  - from: '09:00'
-    to: '10:00'
-    title: Keynote
-    description: cURL, a hobby project that conquered the world
-    author: Daniel Stenberg
-    link: daniel_stenberg
-    type: keynote
-  - from: '10:00'
-    to: '10:30'
-    title: Coffee Break
-    type: break
+    link: 
   - from: '11:50'
     to: '13:15'
     title: Lunch Break
@@ -53,10 +48,6 @@
     author: Josh Kalderimis, Travis
     link: kalderimis
     type: keynote
-  - from: '17:00'
-    to: '18:00'
-    title: Reception
-    type: break
   - from: '14:15'
     to: '14:35'
     type: session
@@ -79,6 +70,15 @@
     type: demo
     author: Johan Tordsson, Mehrdad Mamaghani, Ingela Persson and Simone Stefani
     link: 
+  - from: '18:00'
+    to: '24:00'
+    title: Hackathon
+    type: session
+    link: ci_art_hackathon
+  - from: '17:00'
+    to: '18:00'
+    title: Reception
+    type: break
   
 - track: Security & safety
   date: 2019-10-15
@@ -110,15 +110,15 @@
   - from: '11:10'
     to: '11:30'
     type: session
-    title: 
-    author: Roberto Guanciale KTH - TBA
-    link: tba
+    title:
+    author: Roberto Guanciale, KTH
+    link: guanciale
   - from: '11:30'
     to: '11:50'
     type: session
     title: 
-    author: TBA Ericsson
-    link: tba
+    author: TBA
+    link:
   - from: '11:50'
     to: '13:15'
     title: Lunch and poster session
@@ -135,7 +135,7 @@
     type: session
     title: 
     author: Elena Troubitsyna, KTH
-    link: 
+    link: troubitsyna
   - from: '14:35'
     to: '14:55'
     type: session
