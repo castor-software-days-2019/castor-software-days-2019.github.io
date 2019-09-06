@@ -111,14 +111,14 @@
     to: '11:30'
     type: session
     title:
-    author: Roberto Guanciale, KTH
-    link: guanciale
+    author: Daniel Deogun and Dan Bergh Johnsson
+    link: deogun
   - from: '11:30'
     to: '11:50'
     type: session
     title: 
-    author: TBA
-    link:
+    author: Roberto Guanciale, KTH
+    link: guanciale
   - from: '11:50'
     to: '13:15'
     title: Lunch and poster session
