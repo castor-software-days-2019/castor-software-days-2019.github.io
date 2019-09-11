@@ -6,6 +6,8 @@ pic: martin
 layout: bio
 work_title: A Chaos Engineering System for Live Analysis and Falsification of Exception-handling
   in the JVM
+datetime: 14-10-2019
+time: 10:30-10:50
 position_txt: Professor of software technology at KTH
 social:
 - title: globe
