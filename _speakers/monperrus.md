@@ -4,7 +4,8 @@ name: Martin Monperrus
 _sort: Monperrus
 pic: martin
 layout: bio
-work_title: A Chaos Engineering System for Live Analysis and Falsification of Exception-handling in the JVM
+work_title: A Chaos Engineering System for Live Analysis and Falsification of Exception-handling
+  in the JVM
 position_txt: Professor of software technology at KTH
 social:
 - title: globe
