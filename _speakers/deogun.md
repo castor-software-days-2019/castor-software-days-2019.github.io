@@ -3,19 +3,19 @@ title: Deogun
 name: Daniel Deogun
 _sort: Deogun
 pic: deogun
-team: 
-  - pic: bergh
-    name: Dan Bergh Johnsson
-    position: Partner and VP Omegapoint Academy
-    social:
-     - title: globe
-       url: https://www.linkedin.com/in/danberghjohnsson/
-  - pic: deogun
-    name: Daniel Deogun
-    position: Business Consultant, VP Academy & Partner at Omegapoint AB
-    social:
-     - title: globe
-       url: https://www.linkedin.com/in/daniel-deogun-4a8973/
+team:
+- pic: bergh
+  name: Dan Bergh Johnsson
+  position: Partner and VP Omegapoint Academy
+  social:
+  - title: globe
+    url: https://www.linkedin.com/in/danberghjohnsson/
+- pic: deogun
+  name: Daniel Deogun
+  position: Business Consultant, VP Academy & Partner at Omegapoint AB
+  social:
+  - title: globe
+    url: https://www.linkedin.com/in/daniel-deogun-4a8973/
 layout: bio
 work_title: Secure by Design - another road to security
 position_txt: Business Consultant, VP Academy & Partner at Omegapoint AB
