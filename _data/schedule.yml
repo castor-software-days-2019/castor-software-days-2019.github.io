@@ -156,6 +156,16 @@
     to: '16:45'
     title: Ligthning Talks and Demos
     type: demo
+  - from: '20:00'
+    to: '21:30'
+    type: session
+    title: 'Classical, Electroacoustic Music'
+    link: 'https://www.kmh.se/konserter---evenemang/alla/musik-data---data-musik.html'
+    description: A concert that describes the transformation of music into data and data into music.
+    author: Collaboration with Swedish Workshop on Data Science
+
+
+
 
 - track: Distributed systems
   date: 2019-10-16

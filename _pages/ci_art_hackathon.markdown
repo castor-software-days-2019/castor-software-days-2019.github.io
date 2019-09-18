@@ -7,13 +7,13 @@ description: Hackathon about Continuous Integration Data
 link: Hackathon
 header: true
 img:
+- img/r1/9807.JPG
+- img/r1/9844.JPG
+- img/r1/9855.JPG
+- img/r1/9858.JPG
+- img/r1/9868.JPG
+- img/r1/9782.JPG
 - img/r1/2.JPG
-- img/r1/1.JPG
-- img/r1/3.JPG
-- img/r1/4.JPG
-- img/r1/5.JPG
-- img/r1/6.JPG
-- img/r1/7.JPG
 ref: hackathon
 new: false
 place: Former KTH Nuclear Reactor R1
