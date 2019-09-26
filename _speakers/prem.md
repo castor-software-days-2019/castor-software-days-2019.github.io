@@ -5,7 +5,7 @@ _sort: Jonnalagadda
 pic: prem
 layout: bio
 work_title: Domain Specific Architecture comes to Networking
-position_txt: Barefoot Networks 
+position_txt: Barefoot Networks
 social:
 - title: globe
   url: 
