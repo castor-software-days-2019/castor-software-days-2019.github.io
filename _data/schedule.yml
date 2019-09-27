@@ -146,8 +146,8 @@
     to: '15:15'
     type: session
     title: 
-    author: TBA
-    link: 
+    author: Leila Bahri, KTH
+    link: bahri
   - from: '15:15'
     to: '15:45'
     title: Coffee Break
@@ -163,9 +163,6 @@
     link: 'https://www.kmh.se/konserter---evenemang/alla/musik-data---data-musik.html'
     description: A concert that describes the transformation of music into data and data into music.
     author: Collaboration with Swedish Workshop on Data Science
-
-
-
 
 - track: Distributed systems
   date: 2019-10-16
@@ -198,9 +195,8 @@
     to: '12:00'
     type: session
     title: 
-    author: Leila Bahri, KTH
-    link: bahri
-
+    author: Prem Jonnalagadda
+    link: prem
   - from: '12:00'
     to: '13:15'
     title: Lunch Break
