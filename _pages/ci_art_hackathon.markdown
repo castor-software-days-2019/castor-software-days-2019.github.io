@@ -22,8 +22,7 @@ date-str: Oct 14 2019
 ---
 
 We invite you to the first hackathon about art and continuous integration.
-Passionate and creative software students, software developers, artists,
-designers and curious citizens are welcome to join this first ever performance of software art based on continuous integration data.
+Passionate and creative software students, software developers, artists, designers and curious citizens are welcome to join this first ever performance of software art based on continuous integration data. Hackathon site, [here](https://kth.github.io/ci-hackathon/)
 
 
 ## The Concept
@@ -51,3 +50,4 @@ Please the [FAQ page for the hackathon](https://kth.github.io/ci-hackathon/faq.h
 Other questions? Please contact ci-hackathon@eecs.kth.se
 
 Seats are limited! [Register here](https://www.castor.kth.se/event/kth-continuous-integration-art-hackathon/) before 10 October
+
