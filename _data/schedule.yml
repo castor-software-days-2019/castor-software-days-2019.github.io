@@ -75,10 +75,12 @@
     title: Hackathon
     type: session
     link: ci_art_hackathon
+    author: R1 Reaktorhallen,  KTH
   - from: '17:00'
     to: '18:00'
     title: Reception
     type: break
+    author: R1 Reaktorhallen,  KTH
   
 - track: Security & safety
   date: 2019-10-15
@@ -161,8 +163,8 @@
     type: session
     title: 'Classical, Electroacoustic Music'
     link: 'https://www.kmh.se/konserter---evenemang/alla/musik-data---data-musik.html'
-    description: A concert that describes the transformation of music into data and data into music.
-    author: Collaboration with Swedish Workshop on Data Science
+    description: A concert that describes the transformation of music into data and data into music. Collaboration with Swedish Workshop on Data Science
+    author: Kungl. Musikhögskolan
 
 - track: Distributed systems
   date: 2019-10-16
