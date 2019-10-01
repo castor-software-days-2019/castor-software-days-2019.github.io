@@ -6,7 +6,7 @@ pic: stefani
 layout: bio
 work_title: When Software Projects do Retire
 datetime: 14-10-2019
-time: 930.0
+time: 15:30
 position_txt: Software Developer at Slagkryssaren
 social:
 - title: globe
