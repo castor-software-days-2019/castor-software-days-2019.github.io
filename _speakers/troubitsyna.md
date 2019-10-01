@@ -11,7 +11,6 @@ social:
   url: https://www.kth.se/profile/elenatro
 ---
 
-
 #### Abstract
 Safety-critical control systems become increasingly open and
 interconnected. While offering greater flexibility and possibility to provide richer functionality, the increased system openness also introduces security threats. Security vulnerabilities can be exploited to undermine safety, e.g., by tampering with sensor data or hijacking the controlling functions. Though it is clear that safety and security requirements are interdependent, there is still a lack of the techniques that enable their integrated analysis.  We have developed an approach that allows the designers to derive and formalise safety and security requirements in a structured systematic way. To elicit both types of the requirements, we adapt and integrate
