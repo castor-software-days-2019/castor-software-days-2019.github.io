@@ -15,7 +15,7 @@ url: https://www.linkedin.com/in/tobias-furuholm-72b57a69/
 
 #### Abstract
 
-Keywords: "Software Supply Chain", "Reproducible builds" and "The Update Framework".
+Software Supply Chain attacks are on the rise. What is a Software Supply Chain attack and how can we protect ourselves?
 
 
 #### Bio
