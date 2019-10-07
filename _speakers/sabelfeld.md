@@ -4,7 +4,7 @@ name: Andrei Sabelfeld
 _sort: Sabelfeld
 pic: andrei
 layout: bio
-work_title: Formal verification of binary code
+work_title: Securing the Web of Things
 position_txt: Professor of computer security at Chalmers
 social:
 - title: globe
