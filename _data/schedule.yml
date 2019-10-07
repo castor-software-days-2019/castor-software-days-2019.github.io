@@ -141,9 +141,9 @@
   - from: '14:35'
     to: '14:55'
     type: session
-    title: 
-    author: TBA
-    link: 
+    title: Application Layer Security for the Internet of Things
+    author: Francesca Palombini, Ericsson Research
+    link: palombini
   - from: '14:55'
     to: '15:15'
     type: session
