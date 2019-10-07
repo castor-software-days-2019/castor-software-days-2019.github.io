@@ -5,8 +5,6 @@ _sort: Palombini
 pic: palombini
 layout: bio
 work_title: Application Layer Security for the Internet of Things
-datetime: 14-10-2019
-time: 10:30-10:50
 position_txt: Ericsson Research
 social:
 - title: globe
