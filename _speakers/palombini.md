@@ -8,7 +8,7 @@ work_title: Application Layer Security for the Internet of Things
 position_txt: Ericsson Research
 social:
 - title: globe
-  url: https://www.monperrus.net/martin/
+  url: https://
 ---
 
 #### Abstract
