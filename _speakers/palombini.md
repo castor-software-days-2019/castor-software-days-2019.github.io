@@ -8,7 +8,7 @@ work_title: Application Layer Security for the Internet of Things
 position_txt: Ericsson Research
 social:
 - title: globe
-  url: https://
+  url: https://www.linkedin.com/in/francesca-palombini-3a679499/
 ---
 
 #### Abstract
