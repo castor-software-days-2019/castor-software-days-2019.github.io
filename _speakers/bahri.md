@@ -5,7 +5,7 @@ _sort: Bahri
 pic: leila
 layout: bio
 work_title: 'Very old yet new: Blockchain Technology in the Limelight'
-position_txt: Privacy Scientist at Scania
+position_txt: Senior Researcher at KTH
 social:
 - title: globe
   url: https://www.kth.se/profile/lbahri
