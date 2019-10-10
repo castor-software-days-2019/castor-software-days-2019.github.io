@@ -13,7 +13,8 @@
         "url": "{{event.link}}",
         "type": "{{event.type}}",
         "classNames": ["program-event", "{{event.type}}-event"],
-        
+        "place": "{{event.place}}",
+        "placeLink": "{{event.place_link}}",
 
         "textColor": "#656565"
     },

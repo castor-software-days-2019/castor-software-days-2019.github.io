@@ -37,6 +37,20 @@
                                     if(e.event.extendedProps.description)
                                         $(e.el).append(`<div class="event-description">${e.event.extendedProps.description}</div>`);
                                     
+                                    if(e.event.extendedProps.place){
+                                        const mapbtn = $(`<div class="event-address"><i class="fa fa-map-marker"></i>${e.event.extendedProps.place}</div>`)
+
+
+                                        if(e.event.extendedProps.placeLink){
+                                            mapbtn.click(function(clickEvent){
+                                                clickEvent.preventDefault();
+
+                                                window.location = e.event.extendedProps.placeLink
+                                            })
+                                        }
+                                        $(e.el).append(mapbtn);
+                                    }
+                                    
                                 },
                                 eventSources: ['data/schedule.json', 'data/presentations.json'],
                             }
@@ -64,6 +78,19 @@
                                     if(e.event.extendedProps.description)
                                         $(td).append(`<div class="event-description">${e.event.extendedProps.description}</div>`);
                                     
+                                        if(e.event.extendedProps.place){
+                                        const mapbtn = $(`<div class="event-address"><i class="fa fa-map-marker"></i>${e.event.extendedProps.place}</div>`)
+
+
+                                        if(e.event.extendedProps.placeLink){
+                                            mapbtn.click(function(clickEvent){
+                                                clickEvent.preventDefault();
+
+                                                window.location = e.event.extendedProps.placeLink
+                                            })
+                                        }
+                                        $(td).append(mapbtn);
+                                    }
                                 },
                                 eventSources: ['data/schedule.json', 'data/presentations.json'],
                             }

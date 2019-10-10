@@ -8,6 +8,8 @@
     author: Daniel Stenberg, wolfSSL
     link: daniel_stenberg
     type: keynote
+    place: D1
+    place_link: https://www.kth.se/places/room/id/31c019b9-674b-41ca-aa5b-6b0a2ab0cc68
   - from: '10:00'
     to: '10:30'
     title: Coffee Break
@@ -240,3 +242,6 @@
     to: '20:00'
     title: LLVM meetup
     type: session
+
+
+    # R1, D1, U21, Syster O Bror, D34, Royal Music School
