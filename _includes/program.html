@@ -47,7 +47,7 @@
                                             mapbtn.click(function(clickEvent){
                                                 clickEvent.preventDefault();
 
-                                                window.location = e.event.extendedProps.placeLink
+                                                window.open(e.event.extendedProps.placeLink, '_blank');
                                             })
                                         }
                                         $(e.el).append(mapbtn);
@@ -88,7 +88,8 @@
                                             mapbtn.click(function(clickEvent){
                                                 clickEvent.preventDefault();
 
-                                                window.location = e.event.extendedProps.placeLink
+
+                                                window.open(e.event.extendedProps.placeLink, '_blank');
                                             })
                                         }
                                         $(td).append(mapbtn);
