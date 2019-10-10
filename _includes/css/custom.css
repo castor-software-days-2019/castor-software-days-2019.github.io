@@ -232,6 +232,7 @@
 .event-description{
     font-size: 8pt;
     margin-top: 10px;
+
 }
 
 
@@ -241,7 +242,16 @@
     width: 100%;
 
     margin-top: 15px;
-    font-size: 12pt;
+    font-size: 10pt;
+
+    position: absolute;
+    bottom: 0;
+
+    right: 10px;
+}
+
+.flexi{
+    
 }
 
 .event-address i{
@@ -314,6 +324,10 @@
 
     .crow{
         display: block;
+    }
+
+    .event-address{
+        position: unset;
     }
 }
 

@@ -31,6 +31,8 @@
                                 selectable: true, 
                                 eventRender: function(e) {
                                     
+                                    $(e.el).addClass("flexi")
+
                                     if(e.event.extendedProps.author)
                                         $(e.el).append(`<div class="event-author">${e.event.extendedProps.author}</div>`);
                                     
