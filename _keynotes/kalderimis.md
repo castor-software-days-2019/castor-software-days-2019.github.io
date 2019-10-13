@@ -4,6 +4,7 @@ name: Josh Kalderimis
 _sort: Kalderimis
 pic: josh
 layout: bio
+work_title: Why?
 position_txt: VP of Product at Travis CI
 social:
 - title: globe
