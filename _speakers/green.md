@@ -4,7 +4,7 @@ name: Dan Green
 _sort: Green
 pic: dan
 layout: bio
-work_title: TBA
+work_title: Operational challenges of the present and future cloud native RAN
 datetime: 14-10-2019
 time: 10:50-11:10
 position_txt: Principal Developer at Ericsson
