@@ -21,3 +21,11 @@ Recent development of tooling and methodology for CI/CD has increasingly pushed 
 #### Bio
 
 Johan Tordsson is Associate Professor in Computer Science at Umeå University. Tordsson’s research area is autonomic computing, in particular self-management of large-scale distributed systems. He has a broad background from national and international research projects, having held leading roles in large European research projects. His research has been recognized, e.g., with the Nordea scientific award (2016), as well as one best paper award and two best paper runner-up mentions at international IEEE conferences. Tordsson is also co-founder and CTO of Elastisys, a research spin-off company focused on DevOps and cloud native transformations for companies for enterprises in regulated industries. Elastisys was identified by 33-listan as one of the most innovative young companies in Sweden. 
+
+
+#### Slides
+
+
+<iframe class="slides" src="pdf/web/viewer.html?file=/slides/KTH-Castor-days-2019-Johan-Tordsson.pdf"></iframe>
+
+

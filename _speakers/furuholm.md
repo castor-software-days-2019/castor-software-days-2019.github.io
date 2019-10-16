@@ -21,3 +21,11 @@ Software Supply Chain attacks are on the rise. What is a Software Supply Chain a
 #### Bio
 
  Tobias Furuholm is a Software Developer and Tech Lead at Combient. Used to write C++, nowadays mostly Go.
+
+
+#### Slides
+
+
+<iframe class="slides" src="pdf/web/viewer.html?file=/slides/CASTOR-SW-Days-2019 - Securing-Software-Supply-Chains-with-in-toto-Tobias-Furuholm.pdf"></iframe>
+
+
