@@ -11,6 +11,8 @@ position_txt: Software Developer at Slagkryssaren
 social:
 - title: globe
   url: https://www.linkedin.com/in/simone-stefani
+- title: file-pdf-o
+  url: slides/When_projects_do_retire-Simone_Stefani.pdf
 ---
 
 #### Abstract

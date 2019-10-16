@@ -11,6 +11,8 @@ position_txt: The author and maintainer of cURL and libcurl
 social:
 - title: globe
   url: https://daniel.haxx.se/
+- title: file-pdf-o
+  url: slides/curl-castor-2019-191014115226.pdf
 ---
 
 #### Abstract

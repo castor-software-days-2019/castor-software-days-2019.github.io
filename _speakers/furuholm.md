@@ -10,7 +10,9 @@ time: 14:15-14:35
 position_txt: Tech Lead at SoftSense, Combient
 social:
 - title: globe
-url: https://www.linkedin.com/in/tobias-furuholm-72b57a69/
+  url: https://www.linkedin.com/in/tobias-furuholm-72b57a69/
+- title: file-pdf-o
+  url: slides/Securing-Software-Supply-Chains-with-in-toto-Tobias-Furuholm.pdf
 ---
 
 #### Abstract
