@@ -1,0 +1,2 @@
+[Slides of D. Stenberg](https://www.slideshare.net/bagder/curl-a-hobby-project-that-conquered-the-world)
+[Slides of P. Haller](https://speakerdeck.com/phaller/fine-grained-deterministic-parallelization-of-static-analyses)
