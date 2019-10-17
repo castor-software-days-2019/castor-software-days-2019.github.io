@@ -12,6 +12,8 @@ position_txt: CTO of Elastisys and associate professor of computer science at Um
 social:
 - title: globe
   url: https://www.linkedin.com/in/tordsson
+- title: file-pdf-o
+  url: slides/KTH-Castor-days-2019-Johan-Tordsson.pdf
 ---
 
 #### Abstract

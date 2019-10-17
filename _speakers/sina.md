@@ -9,6 +9,8 @@ position_txt: PhD student of computer science at KTH
 social:
 - title: globe
   url: https://www.kth.se/profile/sinash
+- title: file-pdf-o
+  url: slides/CASTOR-SWDAYS2019-Maggy-Ablation.pdf
 ---
 
 #### Abstract

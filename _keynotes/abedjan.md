@@ -10,6 +10,8 @@ position_txt: Assistant Professor and head of the Big Data Management Group at T
 social:
 - title: globe
   url: https://www.bigdama.tu-berlin.de/menue/team/prof_dr_ziawasch_abedjan/
+- title: file-powerpoint-o
+  url: slides/abedjan_Castor.pptx
 ---
 
 #### Abstract

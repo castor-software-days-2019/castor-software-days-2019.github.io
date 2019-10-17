@@ -9,6 +9,8 @@ position_txt: Senior Researcher at KTH
 social:
 - title: globe
   url: https://www.kth.se/profile/lbahri
+- title: file-pdf-o
+  url: slides/Blockchain_in_the_Limelight_Castor_Software_Days_20191015.pdf
 ---
 
 #### Abstract

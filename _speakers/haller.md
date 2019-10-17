@@ -11,6 +11,8 @@ position_txt: Associate professor of computer science at KTH
 social:
 - title: globe
   url: http://www.csc.kth.se/~phaller/
+- title: file-pdf-o
+  url: slides/CASTORSWDays2019_Parallelization_Static_Analyses.pdf
 ---
 
 #### Abstract
