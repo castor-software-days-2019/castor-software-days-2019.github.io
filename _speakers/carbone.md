@@ -19,3 +19,8 @@ To that end, we investigate a fundamental solution to this problem that is compu
 
 #### Bio
 Paris Carbone is senior researcher at RISE (Research Institutes in Sweden), currently leading the "Continuous Deep Analytics" joint group at Rise and KTH. Paris holds a PhD in Distributed Computing from KTH with distinguished findings in state management for stream processing and also serves as an open source committer for Apache Flink, the most powerful stream processing framework to date. 
+
+
+#### Slides
+<iframe class="slides" src="pdf/web/viewer.html?file=/slides/castor19_paris_carbone.pdf"></iframe>
+
