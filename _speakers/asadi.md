@@ -10,11 +10,11 @@ social:
 - title: globe
   url: https://www.linkedin.com/in/saharasadi/
 - title: file-pdf-o
-  url: slides/Asadi-King-CASTOR-Days-20191014.pdf
+  url: slides/Sahar_Asadi_CSD19.pdf
 ---
 
 #### Abstract
 This talk presents an overview of how AI is shaping game development at King. Offering high-quality content and good user experience is of the core values at King. In this talk, we discuss a few examples where applying AI improves the quality assessment of content released to players. In particular, the focus of this talk will be on building AI solutions for automatic playtesting of content; the challenges, existing solutions, and future research directions.
 
 #### Slides
-<iframe class="slides" src="pdf/web/viewer.html?file=/slides/Asadi-King-CASTOR-Days-20191014.pdf"></iframe>
+<iframe class="slides" src="pdf/web/viewer.html?file=/slides/Sahar_Asadi_CSD19.pdf"></iframe>

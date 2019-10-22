@@ -10,7 +10,7 @@ social:
 - title: globe
   url: https://www.doc.ic.ac.uk/~prp/
 - title: file-pdf-o
-  url: slides/prp-crossbow-castor2019.pdf
+  url: slides/Peter_Pietzuch_CSD19.pdf
 ---
 
 #### Abstract
@@ -21,4 +21,4 @@ In this talk, I describe CrossBow, a new single-server multi-GPU deep learning s
 Peter Pietzuch is a Professor at Imperial College London, where he leads the Large-scale Data & Systems (LSDS) group (http://lsds.doc.ic.ac.uk) in the Department of Computing. His research focuses on the design and engineering of scalable, reliable and secure large-scale software systems, with a particular interest in performance, data management and security issues. He has published papers in premier international venues, including SIGMOD, VLDB, OSDI, USENIX ATC, EuroSys, SoCC, ICDCS, CCS, CoNEXT, NSDI, and Middleware. Before joining Imperial College London, he was a post-doctoral fellow at Harvard University. He holds PhD and MA degrees from the University of Cambridge. 
 
 #### Slides
-<iframe class="slides" src="pdf/web/viewer.html?file=/slides/prp-crossbow-castor2019.pdf"></iframe>
+<iframe class="slides" src="pdf/web/viewer.html?file=/slides/Peter_Pietzuch_CSD19.pdf"></iframe>

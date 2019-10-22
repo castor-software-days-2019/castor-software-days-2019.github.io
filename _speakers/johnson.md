@@ -9,6 +9,8 @@ position_txt: Professor of cyber security and software architecture at KTH
 social:
 - title: globe
   url: https://www.kth.se/profile/pontusj
+- title: file-pdf-o
+  url: slides/Pontus_Johnson_CSD19.pdf
 ---
 
 #### Abstract
@@ -18,3 +20,6 @@ In this talk, we present the Meta Attack Language (MAL), which may be used to de
 
 #### Bio
 Pontus Johnson is a professor at the Royal Institute of Technology (KTH) in Stockholm, Sweden. His research interests mainly lie in the area of cyber security and the analysis of architectural models of computer networks. Pontus supervises a number of PhD students and holds courses on Ethical Hacking. He received his MSc from the Lund Institute of Technology in 1997 and his PhD and Docent titles from the Royal Institute of Technology in 2002 and 2007. He was appointed professor in 2009. Since 2013, he is a member of the Swedish Royal Academy of Engineering Sciences (IVA). He has chaired and co-chaired a number of international conferences and workshops and participated in program committees in over fifty such events. He is a member of the steering committee of the IEEE Enterprise Computing Conference (EDOC). He has been associate and guest editor to several journals. He has authored over 100 scientific articles, mainly on the prediction of  information security and other non-functional properties in software-intensive system architectures. Much work is directed toward the security of critical infrastructures. Significant research is also aimed at enterprise-wide information systems of a more general kind. In research, he has much contact with Swedish corporations and organizations in the form of research projects, master thesis projects, seminars, and consultations. He is a member of the IVA Medal Committee. Pontus is also a co-founder of foreseeti, a research spin-off company developing cyber security attack simulation software. 
+
+#### Slides
+<iframe class="slides" src="pdf/web/viewer.html?file=/slides/Pontus_Johnson_CSD19.pdf"></iframe>
