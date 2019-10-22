@@ -25,4 +25,8 @@ Parallelization of static analyses is necessary to scale to real-world programs,
 Philipp Haller is an associate professor in the School of Electrical Engineering and Computer Science (EECS) at KTH Royal Institute of Technology in Stockholm, Sweden. His main research interests are in the design and implementation of programming languages, type systems, concurrency, and distributed programming. He was part of the team that received the 2019 ACM SIGPLAN Programming Languages Software Award for the development of the Scala language. At KTH, he teaches courses on foundations of programming languages and on compiler construction. He is a member of the founder's circle of Lightbend, Inc. (formerly Typesafe), a start-up company developing and supporting Scala as well as frameworks for large-scale distributed programming. Prior to Lightbend, he was a post-doctoral fellow at Stanford University, USA, and at EPFL, Switzerland. He received his Dipl.-Inform. degree in 2006 from Karlsruhe Institute of Technology (KIT), his PhD in computer science in 2010 from EPFL, and his Docent title in 2018 from KTH.
 
 
+#### Slides
+<iframe class="slides" src="pdf/web/viewer.html?file=/slides/CASTORSWDays2019_Parallelization_Static_Analyses.pdf"></iframe>
+<!--
 #### [Slides](https://speakerdeck.com/phaller/fine-grained-deterministic-parallelization-of-static-analyses)
+-->

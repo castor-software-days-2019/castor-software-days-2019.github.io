@@ -22,3 +22,5 @@ Recently, novel machine learning techniques have been proposed to treat error de
 In this talk, I will present our work in progress towards a holistic error detection system that significantly reduces the amount of required labels by leveraging label propagation techniques and meta-learning. In a nutshell, we leverage existing error detection techniques as 
 feature generators. First I discuss how manually configured off-the-shelf error detection techniques can be aggregated and automatically selected. Then I show,  both approaches can be combined and refined for a configuration-free error detection system that only requires 
 about 20 labeled tuples to outperform state-of-the-art techniques.
+
+#### [Slides](slides/abedjan_Castor.pptx)

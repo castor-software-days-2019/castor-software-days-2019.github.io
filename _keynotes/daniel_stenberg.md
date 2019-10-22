@@ -24,5 +24,7 @@ Daniel talks about how the curl project ended up like this without any particula
 
 
 #### Slides
-
+<iframe class="slides" src="pdf/web/viewer.html?file=/slides/curl-castor-2019-191014115226.pdf"></iframe>
+<!--
 <iframe class="slides" src="//www.slideshare.net/slideshow/embed_code/key/AdJvwYRWYEnkyD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bagder/curl-a-hobby-project-that-conquered-the-world" title="curl - a hobby project that conquered the world" target="_blank">curl - a hobby project that conquered the world</a> </strong> from <strong><a href="//www.slideshare.net/bagder" target="_blank">Daniel Stenberg</a></strong> </div>
+-->
