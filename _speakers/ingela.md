@@ -11,6 +11,8 @@ time: 11:30-11:50
 social:
 - title: globe
   url: https://www.linkedin.com/in/ingela-persson-85184940/
+- title: file-powerpoint-o
+  url: slides/SmokeTestAndVisualisation2019_9LVPP.pptx
 ---
 
 #### Abstract
@@ -20,3 +22,5 @@ Continuous improvement is a part of DevOps and of the Agile way of working. Impr
 #### Bio
 
 With a background from System Engineering to all kinds of test levels I have developed a passion for DevOps and its practices.
+
+#### [Slides](slides/SmokeTestAndVisualisation2019_9LVPP.pptx)
