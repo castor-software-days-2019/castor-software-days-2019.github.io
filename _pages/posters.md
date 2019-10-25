@@ -8,6 +8,6 @@ ref: posters
 in_main: false
 new: false
 img:
-- /img/campus.jpg
+- "/img/campus.jpg"
 ---
 
