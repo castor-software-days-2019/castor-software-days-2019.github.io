@@ -28,6 +28,6 @@ Software Supply Chain attacks are on the rise. What is a Software Supply Chain a
 #### Slides
 
 
-<iframe class="slides" src="pdf/web/viewer.html?file=/slides/CASTOR-SW-Days-2019 - Securing-Software-Supply-Chains-with-in-toto-Tobias-Furuholm.pdf"></iframe>
+<iframe class="slides" src="/pdf/web/viewer.html?file=/slides/CASTOR-SW-Days-2019 - Securing-Software-Supply-Chains-with-in-toto-Tobias-Furuholm.pdf"></iframe>
 
 

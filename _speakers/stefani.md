@@ -28,7 +28,7 @@ Since having graduated from KTH in 2018, Simone has been working as a software e
 #### Slides
 
 
-<iframe class="slides" src="pdf/web/viewer.html?file=/slides/When_projects_do_retire-Simone_Stefani.pdf"></iframe>
+<iframe class="slides" src="/pdf/web/viewer.html?file=/slides/When_projects_do_retire-Simone_Stefani.pdf"></iframe>
 
 
 

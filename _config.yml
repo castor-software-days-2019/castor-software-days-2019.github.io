@@ -33,6 +33,16 @@ baseurl: ''
 email: sw-days-organizers@kth.se
 description: Three days about software technology for students, developers, researchers
   and all software passionates
+posters:
+  - link: CASTORPosterSession_Deepika.pdf
+  - link: cda-poster.pdf
+  - link: cesar-soto-valero.pdf
+  - link: didrik-lundberg.pdf
+  - link: forough-shahab.pdf
+  - link: mikhail-shcherbakov.pdf
+  - link: poster-scamv.pdf
+  - link: rodothea-myrsini-tsoupidi.pdf
+
 organization:
 - name: Benoit Baudry
   pic: benoit

@@ -336,3 +336,28 @@
     border: none;
     min-height: 800px;
 }
+
+.poster-container{
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+
+    align-items: center;
+
+    width: 100%;
+
+    position: absolute;
+    left: 0;
+}
+
+.poster-pdf{
+    border: none;
+    width: 47%;
+
+    margin-right: 20px;
+    margin-left: 20px;;
+
+    margin-bottom: 20px;
+
+    min-height: 350px;
+}

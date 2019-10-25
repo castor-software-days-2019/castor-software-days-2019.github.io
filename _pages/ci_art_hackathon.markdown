@@ -5,6 +5,7 @@ type: page
 layout: page
 description: Hackathon about Continuous Integration Data
 link: Hackathon
+in_main: true
 header: true
 img:
 - img/r1/9807.JPG
