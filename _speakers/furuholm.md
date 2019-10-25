@@ -12,18 +12,14 @@ social:
 - title: globe
   url: https://www.linkedin.com/in/tobias-furuholm-72b57a69/
 - title: file-pdf-o
-  url: slides/Securing-Software-Supply-Chains-with-in-toto-Tobias-Furuholm.pdf
+  url: slides/Tobias_Furuholm_CSD19.pdf
 ---
 
 #### Abstract
-
 Software Supply Chain attacks are on the rise. What is a Software Supply Chain attack and how can we protect ourselves?
 
-
 #### Bio
-
- Tobias Furuholm is a Software Developer and Tech Lead at Combient. Used to write C++, nowadays mostly Go.
-
+Tobias Furuholm is a Software Developer and Tech Lead at Combient. Used to write C++, nowadays mostly Go.
 
 #### Slides
 

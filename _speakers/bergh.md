@@ -22,6 +22,8 @@ position_txt: Partner and VP Omegapoint Academy
 social:
 - title: globe
   url: https://www.linkedin.com/in/danberghjohnsson/
+- title: file-pdf-o
+  url: slides/DanielDeogun_DanBerghJohnsson_CSD19.pdf
 ---
 
 #### Abstract
@@ -31,5 +33,7 @@ The ambition of Secure by Design is to make security something that comes natura
 
 **Dan Bergh Johnsson** is an agile aficionado, Domain Driven Design enthusiast, and code quality craftsman with a long time interest in security. The combination made Dan use quality practices from DDD to address application security issues - thus being one of the founders in the field of Domain Driven Security circa 2009. Dan is currently a senior consultant and partner at Omegapoint in Stockholm, Sweden.
 
-
 **Daniel Deogun** is a coder and quality defender who truly admires code craftsmanship. His interest in security along with being a developer has resulted in a book – Secure by Design – which teaches how to address security vulnerabilities using good design principles. As a developer, Daniel started to play with Java in 1997 and his experience ranges from life supporting pacemaker systems to web applications to microservics in the cloud. Daniel is currently a senior consultant and partner at Omegapoint in Stockholm, Sweden.
+
+#### Slides
+<iframe class="slides" src="pdf/web/viewer.html?file=/slides/DanielDeogun_DanBerghJohnsson_CSD19.pdf"></iframe>

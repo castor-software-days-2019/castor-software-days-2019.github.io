@@ -9,6 +9,8 @@ position_txt: Assistant professor of computer science at KTH
 social:
 - title: globe
   url: http://www.csc.kth.se/~robertog/
+- title: file-pdf-o
+  url: slides/Roberto_Guanciale_CSD19.pdf
 ---
 
 #### Abstract
@@ -19,3 +21,6 @@ The new platforms provides proof-producing transpilers, which support ARMv8 and 
 #### Bio
 Roberto Guanciale is an assistant professor within the Department of Theoretical Computer Science, EECS, KTH since 2015, where he works on system security and formal verification. He received his bachelor's degree in Computer Science from University of Pisa in 2003, his Master from from University of Pisa in 2005, and his Ph.D. from
 IMT Lucca in 2009. He has been postdoctoral researcher at KTH (2012 - 2015). His research focuses on Computer Security, in particular on formal verification low level code and design of separation kernels.  He also designed methods to analyze coordination of distributed services.
+
+#### Slides
+<iframe class="slides" src="pdf/web/viewer.html?file=/slides/Roberto_Guanciale_CSD19.pdf"></iframe>
